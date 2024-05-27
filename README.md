@@ -1,4 +1,4 @@
-# 📦 Streamlit App Starter Kit 
+# ⚽ Euro 2024 Predictions
 ```
 ⬆️ (Replace above with your app's name)
 ```
