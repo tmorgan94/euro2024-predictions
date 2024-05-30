@@ -8,84 +8,94 @@
 6,27/05/2024 20:29:29,Marc,M01,Germany,Scotland,1-0,1,1-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00,Home,Draw,0,0
 7,27/05/2024 20:29:29,Tom,M01,Germany,Scotland,1-1,1,1-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00,Draw,Draw,3,3
 8,27/05/2024 20:29:29,Rando Randal,M01,Germany,Scotland,1-0,1,1-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00,Home,Draw,0,0
-9,27/05/2024 20:29:29,Corfe,M03,Spain,Croatia,1-0,1,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Home,Home,1,1
-10,27/05/2024 20:29:29,Ed,M03,Spain,Croatia,2-0,2,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Home,Home,3,6
-11,27/05/2024 20:29:29,Jay,M03,Spain,Croatia,3-0,1,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Home,Home,1,1
-12,27/05/2024 20:29:29,Jonny,M03,Spain,Croatia,0-1,1,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Away,Home,0,0
-13,27/05/2024 20:29:29,Larry,M03,Spain,Croatia,0-2,1,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Away,Home,0,0
-14,27/05/2024 20:29:29,Luke,M03,Spain,Croatia,1-1,1,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Draw,Home,0,0
-15,27/05/2024 20:29:29,Marc,M03,Spain,Croatia,3-3,2,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Draw,Home,0,0
-16,27/05/2024 20:29:29,Tom,M03,Spain,Croatia,4-4,2,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Draw,Home,0,0
-17,27/05/2024 20:29:29,Rando Randal,M03,Spain,Croatia,1-1,1,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Draw,Home,0,0
-18,27/05/2024 20:29:29,Corfe,M05,Serbia,England,1-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
-19,27/05/2024 20:29:29,Ed,M05,Serbia,England,1-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
-20,27/05/2024 20:29:29,Jay,M05,Serbia,England,0-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
-21,27/05/2024 20:29:29,Jonny,M05,Serbia,England,1-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
-22,27/05/2024 20:29:29,Larry,M05,Serbia,England,1-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
-23,27/05/2024 20:29:29,Luke,M05,Serbia,England,1-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
-24,27/05/2024 20:29:29,Marc,M05,Serbia,England,1-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
-25,27/05/2024 20:29:29,Tom,M05,Serbia,England,0-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
-26,27/05/2024 20:29:29,Rando Randal,M05,Serbia,England,1-3,2,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
-27,27/05/2024 20:29:29,Corfe,M08,Austria,France,0-4,1,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Away,Away,1,1
-28,27/05/2024 20:29:29,Ed,M08,Austria,France,0-4,1,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Away,Away,1,1
-29,27/05/2024 20:29:29,Jay,M08,Austria,France,4-0,2,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Home,Away,0,0
-30,27/05/2024 20:29:29,Jonny,M08,Austria,France,0-4,2,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Away,Away,1,2
-31,27/05/2024 20:29:29,Larry,M08,Austria,France,0-4,2,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Away,Away,1,2
-32,27/05/2024 20:29:29,Luke,M08,Austria,France,0-4,1,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Away,Away,1,1
-33,27/05/2024 20:29:29,Marc,M08,Austria,France,0-4,1,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Away,Away,1,1
-34,27/05/2024 20:29:29,Tom,M08,Austria,France,4-0,1,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Home,Away,0,0
-35,27/05/2024 20:29:29,Rando Randal,M08,Austria,France,0-4,1,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Away,Away,1,1
-36,27/05/2024 20:29:29,Corfe,M12,Portugal,Czech Republic,1-1,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Draw,Home,0,0
-37,27/05/2024 20:29:29,Ed,M12,Portugal,Czech Republic,2-2,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Draw,Home,0,0
-38,27/05/2024 20:29:29,Jay,M12,Portugal,Czech Republic,1-0,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Home,Home,1,1
-39,27/05/2024 20:29:29,Jonny,M12,Portugal,Czech Republic,0-1,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Away,Home,0,0
-40,27/05/2024 20:29:29,Larry,M12,Portugal,Czech Republic,4-0,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Home,Home,1,1
-41,27/05/2024 20:29:29,Luke,M12,Portugal,Czech Republic,0-0,2,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Draw,Home,0,0
-42,27/05/2024 20:29:29,Marc,M12,Portugal,Czech Republic,1-1,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Draw,Home,0,0
-43,27/05/2024 20:29:29,Tom,M12,Portugal,Czech Republic,1-1,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Draw,Home,0,0
-44,27/05/2024 20:29:29,Rando Randal,M12,Portugal,Czech Republic,1-1,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Draw,Home,0,0
-45,27/05/2024 20:29:29,Corfe,M13,Scotland,Switzerland,1-0,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Home,Draw,0,0
-46,27/05/2024 20:29:29,Ed,M13,Scotland,Switzerland,1-0,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Home,Draw,0,0
-47,27/05/2024 20:29:29,Jay,M13,Scotland,Switzerland,1-1,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Draw,Draw,1,1
-48,27/05/2024 20:29:29,Jonny,M13,Scotland,Switzerland,1-0,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Home,Draw,0,0
-49,27/05/2024 20:29:29,Larry,M13,Scotland,Switzerland,1-0,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Home,Draw,0,0
-50,27/05/2024 20:29:29,Luke,M13,Scotland,Switzerland,1-0,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Home,Draw,0,0
-51,27/05/2024 20:29:29,Marc,M13,Scotland,Switzerland,1-0,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Home,Draw,0,0
-52,27/05/2024 20:29:29,Tom,M13,Scotland,Switzerland,1-1,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Draw,Draw,1,1
-53,27/05/2024 20:29:29,Rando Randal,M13,Scotland,Switzerland,1-0,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Home,Draw,0,0
-54,27/05/2024 20:29:29,Corfe,M16,Spain,Italy,1-0,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Home,Home,3,3
-55,27/05/2024 20:29:29,Ed,M16,Spain,Italy,2-0,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Home,Home,1,1
-56,27/05/2024 20:29:29,Jay,M16,Spain,Italy,3-0,2,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Home,Home,1,2
-57,27/05/2024 20:29:29,Jonny,M16,Spain,Italy,0-1,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Away,Home,0,0
-58,27/05/2024 20:29:29,Larry,M16,Spain,Italy,0-2,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Away,Home,0,0
-59,27/05/2024 20:29:29,Luke,M16,Spain,Italy,1-1,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Draw,Home,0,0
-60,27/05/2024 20:29:29,Marc,M16,Spain,Italy,3-3,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Draw,Home,0,0
-61,27/05/2024 20:29:29,Tom,M16,Spain,Italy,4-4,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Draw,Home,0,0
-62,27/05/2024 20:29:29,Rando Randal,M16,Spain,Italy,1-1,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Draw,Home,0,0
-63,27/05/2024 20:29:29,Corfe,M17,Denmark,England,1-3,2,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,2
-64,27/05/2024 20:29:29,Ed,M17,Denmark,England,1-3,1,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,1
-65,27/05/2024 20:29:29,Jay,M17,Denmark,England,0-3,1,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,1
-66,27/05/2024 20:29:29,Jonny,M17,Denmark,England,1-3,2,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,2
-67,27/05/2024 20:29:29,Larry,M17,Denmark,England,1-3,2,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,2
-68,27/05/2024 20:29:29,Luke,M17,Denmark,England,1-3,1,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,1
-69,27/05/2024 20:29:29,Marc,M17,Denmark,England,1-3,2,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,2
-70,27/05/2024 20:29:29,Tom,M17,Denmark,England,0-3,2,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,2
-71,27/05/2024 20:29:29,Rando Randal,M17,Denmark,England,1-3,2,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,2
-72,27/05/2024 20:29:29,Corfe,M20,Netherlands,France,0-4,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Away,Home,0,0
-73,27/05/2024 20:29:29,Ed,M20,Netherlands,France,0-4,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Away,Home,0,0
-74,27/05/2024 20:29:29,Jay,M20,Netherlands,France,4-0,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Home,Home,1,1
-75,27/05/2024 20:29:29,Jonny,M20,Netherlands,France,0-4,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Away,Home,0,0
-76,27/05/2024 20:29:29,Larry,M20,Netherlands,France,0-4,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Away,Home,0,0
-77,27/05/2024 20:29:29,Luke,M20,Netherlands,France,0-4,2,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Away,Home,0,0
-78,27/05/2024 20:29:29,Marc,M20,Netherlands,France,0-4,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Away,Home,0,0
-79,27/05/2024 20:29:29,Tom,M20,Netherlands,France,4-0,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Home,Home,1,1
-80,27/05/2024 20:29:29,Rando Randal,M20,Netherlands,France,0-4,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Away,Home,0,0
-81,27/05/2024 20:29:29,Corfe,M22,Belgium,Romania,1-1,1,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Draw,Away,0,0
-82,27/05/2024 20:29:29,Ed,M22,Belgium,Romania,2-2,2,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Draw,Away,0,0
-83,27/05/2024 20:29:29,Jay,M22,Belgium,Romania,1-0,1,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Home,Away,0,0
-84,27/05/2024 20:29:29,Jonny,M22,Belgium,Romania,0-1,1,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Away,Away,1,1
-85,27/05/2024 20:29:29,Larry,M22,Belgium,Romania,4-0,1,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Home,Away,0,0
-86,27/05/2024 20:29:29,Luke,M22,Belgium,Romania,0-0,1,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Draw,Away,0,0
-87,27/05/2024 20:29:29,Marc,M22,Belgium,Romania,1-1,1,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Draw,Away,0,0
-88,27/05/2024 20:29:29,Tom,M22,Belgium,Romania,1-1,1,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Draw,Away,0,0
-89,27/05/2024 20:29:29,Rando Randal,M22,Belgium,Romania,1-1,1,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Draw,Away,0,0
+9,27/05/2024 20:29:29,Peter Popular,M01,Germany,Scotland,2-0,2,1-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00,Home,Draw,0,0
+10,27/05/2024 20:29:29,Corfe,M03,Spain,Croatia,1-0,1,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Home,Home,1,1
+11,27/05/2024 20:29:29,Ed,M03,Spain,Croatia,2-0,2,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Home,Home,3,6
+12,27/05/2024 20:29:29,Jay,M03,Spain,Croatia,3-0,1,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Home,Home,1,1
+13,27/05/2024 20:29:29,Jonny,M03,Spain,Croatia,0-1,1,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Away,Home,0,0
+14,27/05/2024 20:29:29,Larry,M03,Spain,Croatia,0-2,1,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Away,Home,0,0
+15,27/05/2024 20:29:29,Luke,M03,Spain,Croatia,1-1,1,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Draw,Home,0,0
+16,27/05/2024 20:29:29,Marc,M03,Spain,Croatia,3-3,2,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Draw,Home,0,0
+17,27/05/2024 20:29:29,Tom,M03,Spain,Croatia,4-4,2,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Draw,Home,0,0
+18,27/05/2024 20:29:29,Rando Randal,M03,Spain,Croatia,1-1,1,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Draw,Home,0,0
+19,27/05/2024 20:29:29,Peter Popular,M03,Spain,Croatia,2-1,1,2-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00,Home,Home,1,1
+20,27/05/2024 20:29:29,Corfe,M05,Serbia,England,1-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
+21,27/05/2024 20:29:29,Ed,M05,Serbia,England,1-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
+22,27/05/2024 20:29:29,Jay,M05,Serbia,England,0-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
+23,27/05/2024 20:29:29,Jonny,M05,Serbia,England,1-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
+24,27/05/2024 20:29:29,Larry,M05,Serbia,England,1-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
+25,27/05/2024 20:29:29,Luke,M05,Serbia,England,1-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
+26,27/05/2024 20:29:29,Marc,M05,Serbia,England,1-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
+27,27/05/2024 20:29:29,Tom,M05,Serbia,England,0-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
+28,27/05/2024 20:29:29,Rando Randal,M05,Serbia,England,1-3,2,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
+29,27/05/2024 20:29:29,Peter Popular,M05,Serbia,England,0-3,1,3-0,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00,Away,Home,0,0
+30,27/05/2024 20:29:29,Corfe,M08,Austria,France,0-4,1,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Away,Away,1,1
+31,27/05/2024 20:29:29,Ed,M08,Austria,France,0-4,1,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Away,Away,1,1
+32,27/05/2024 20:29:29,Jay,M08,Austria,France,4-0,2,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Home,Away,0,0
+33,27/05/2024 20:29:29,Jonny,M08,Austria,France,0-4,2,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Away,Away,1,2
+34,27/05/2024 20:29:29,Larry,M08,Austria,France,0-4,2,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Away,Away,1,2
+35,27/05/2024 20:29:29,Luke,M08,Austria,France,0-4,1,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Away,Away,1,1
+36,27/05/2024 20:29:29,Marc,M08,Austria,France,0-4,1,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Away,Away,1,1
+37,27/05/2024 20:29:29,Tom,M08,Austria,France,4-0,1,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Home,Away,0,0
+38,27/05/2024 20:29:29,Rando Randal,M08,Austria,France,0-4,1,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Away,Away,1,1
+39,27/05/2024 20:29:29,Peter Popular,M08,Austria,France,0-3,1,1-3,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00,Away,Away,1,1
+40,27/05/2024 20:29:29,Corfe,M12,Portugal,Czech Republic,1-1,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Draw,Home,0,0
+41,27/05/2024 20:29:29,Ed,M12,Portugal,Czech Republic,2-2,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Draw,Home,0,0
+42,27/05/2024 20:29:29,Jay,M12,Portugal,Czech Republic,1-0,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Home,Home,1,1
+43,27/05/2024 20:29:29,Jonny,M12,Portugal,Czech Republic,0-1,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Away,Home,0,0
+44,27/05/2024 20:29:29,Larry,M12,Portugal,Czech Republic,4-0,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Home,Home,1,1
+45,27/05/2024 20:29:29,Luke,M12,Portugal,Czech Republic,0-0,2,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Draw,Home,0,0
+46,27/05/2024 20:29:29,Marc,M12,Portugal,Czech Republic,1-1,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Draw,Home,0,0
+47,27/05/2024 20:29:29,Tom,M12,Portugal,Czech Republic,1-1,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Draw,Home,0,0
+48,27/05/2024 20:29:29,Rando Randal,M12,Portugal,Czech Republic,1-1,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Draw,Home,0,0
+49,27/05/2024 20:29:29,Peter Popular,M12,Portugal,Czech Republic,2-0,1,4-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00,Home,Home,1,1
+50,27/05/2024 20:29:29,Corfe,M13,Scotland,Switzerland,1-0,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Home,Draw,0,0
+51,27/05/2024 20:29:29,Ed,M13,Scotland,Switzerland,1-0,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Home,Draw,0,0
+52,27/05/2024 20:29:29,Jay,M13,Scotland,Switzerland,1-1,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Draw,Draw,1,1
+53,27/05/2024 20:29:29,Jonny,M13,Scotland,Switzerland,1-0,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Home,Draw,0,0
+54,27/05/2024 20:29:29,Larry,M13,Scotland,Switzerland,1-0,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Home,Draw,0,0
+55,27/05/2024 20:29:29,Luke,M13,Scotland,Switzerland,1-0,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Home,Draw,0,0
+56,27/05/2024 20:29:29,Marc,M13,Scotland,Switzerland,1-0,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Home,Draw,0,0
+57,27/05/2024 20:29:29,Tom,M13,Scotland,Switzerland,1-1,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Draw,Draw,1,1
+58,27/05/2024 20:29:29,Rando Randal,M13,Scotland,Switzerland,1-0,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Home,Draw,0,0
+59,27/05/2024 20:29:29,Peter Popular,M13,Scotland,Switzerland,1-1,1,0-0,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00,Draw,Draw,1,1
+60,27/05/2024 20:29:29,Corfe,M16,Spain,Italy,1-0,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Home,Home,3,3
+61,27/05/2024 20:29:29,Ed,M16,Spain,Italy,2-0,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Home,Home,1,1
+62,27/05/2024 20:29:29,Jay,M16,Spain,Italy,3-0,2,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Home,Home,1,2
+63,27/05/2024 20:29:29,Jonny,M16,Spain,Italy,0-1,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Away,Home,0,0
+64,27/05/2024 20:29:29,Larry,M16,Spain,Italy,0-2,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Away,Home,0,0
+65,27/05/2024 20:29:29,Luke,M16,Spain,Italy,1-1,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Draw,Home,0,0
+66,27/05/2024 20:29:29,Marc,M16,Spain,Italy,3-3,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Draw,Home,0,0
+67,27/05/2024 20:29:29,Tom,M16,Spain,Italy,4-4,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Draw,Home,0,0
+68,27/05/2024 20:29:29,Rando Randal,M16,Spain,Italy,1-1,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Draw,Home,0,0
+69,27/05/2024 20:29:29,Peter Popular,M16,Spain,Italy,2-2,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00,Draw,Home,0,0
+70,27/05/2024 20:29:29,Corfe,M17,Denmark,England,1-3,2,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,2
+71,27/05/2024 20:29:29,Ed,M17,Denmark,England,1-3,1,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,1
+72,27/05/2024 20:29:29,Jay,M17,Denmark,England,0-3,1,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,1
+73,27/05/2024 20:29:29,Jonny,M17,Denmark,England,1-3,2,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,2
+74,27/05/2024 20:29:29,Larry,M17,Denmark,England,1-3,2,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,2
+75,27/05/2024 20:29:29,Luke,M17,Denmark,England,1-3,1,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,1
+76,27/05/2024 20:29:29,Marc,M17,Denmark,England,1-3,2,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,2
+77,27/05/2024 20:29:29,Tom,M17,Denmark,England,0-3,2,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,2
+78,27/05/2024 20:29:29,Rando Randal,M17,Denmark,England,1-3,2,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,2
+79,27/05/2024 20:29:29,Peter Popular,M17,Denmark,England,1-2,1,0-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00,Away,Away,1,1
+80,27/05/2024 20:29:29,Corfe,M20,Netherlands,France,0-4,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Away,Home,0,0
+81,27/05/2024 20:29:29,Ed,M20,Netherlands,France,0-4,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Away,Home,0,0
+82,27/05/2024 20:29:29,Jay,M20,Netherlands,France,4-0,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Home,Home,1,1
+83,27/05/2024 20:29:29,Jonny,M20,Netherlands,France,0-4,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Away,Home,0,0
+84,27/05/2024 20:29:29,Larry,M20,Netherlands,France,0-4,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Away,Home,0,0
+85,27/05/2024 20:29:29,Luke,M20,Netherlands,France,0-4,2,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Away,Home,0,0
+86,27/05/2024 20:29:29,Marc,M20,Netherlands,France,0-4,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Away,Home,0,0
+87,27/05/2024 20:29:29,Tom,M20,Netherlands,France,4-0,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Home,Home,1,1
+88,27/05/2024 20:29:29,Rando Randal,M20,Netherlands,France,0-4,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Away,Home,0,0
+89,27/05/2024 20:29:29,Peter Popular,M20,Netherlands,France,1-2,1,2-1,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00,Away,Home,0,0
+90,27/05/2024 20:29:29,Corfe,M22,Belgium,Romania,1-1,1,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Draw,Away,0,0
+91,27/05/2024 20:29:29,Ed,M22,Belgium,Romania,2-2,2,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Draw,Away,0,0
+92,27/05/2024 20:29:29,Jay,M22,Belgium,Romania,1-0,1,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Home,Away,0,0
+93,27/05/2024 20:29:29,Jonny,M22,Belgium,Romania,0-1,1,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Away,Away,1,1
+94,27/05/2024 20:29:29,Larry,M22,Belgium,Romania,4-0,1,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Home,Away,0,0
+95,27/05/2024 20:29:29,Luke,M22,Belgium,Romania,0-0,1,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Draw,Away,0,0
+96,27/05/2024 20:29:29,Marc,M22,Belgium,Romania,1-1,1,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Draw,Away,0,0
+97,27/05/2024 20:29:29,Tom,M22,Belgium,Romania,1-1,1,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Draw,Away,0,0
+98,27/05/2024 20:29:29,Rando Randal,M22,Belgium,Romania,1-1,1,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Draw,Away,0,0
+99,27/05/2024 20:29:29,Peter Popular,M22,Belgium,Romania,2-0,2,1-2,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00,Home,Away,0,0

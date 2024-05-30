@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st 
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
@@ -197,6 +197,7 @@ colors_names = {
     "Larry": "#ffd600",
     "Luke": "#66c0f4",
     "Marc": "#000000",
+    "Peter Popular": "#69ffb4",
     "Rando Randal": "#ff69b4",
     "Tom": "#8a2be2"
 }
