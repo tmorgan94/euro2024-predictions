@@ -5,12 +5,48 @@ import plotly.graph_objects as go
 
 st.title('⚽ Euro 2024 - Prediction Game')
 
-col1,col2,col3,col4,col5 = st.columns(5)
-col1.metric("🇩🇪 v 🏴󠁧󠁢󠁳󠁣󠁴󠁿", "2-0")
-col2.metric("🇪🇸 v 🇭🇷", "1-0")
-col3.metric("🇷🇸 v 🏴󠁧󠁢󠁥󠁮󠁧󠁿", "3-3")
-col4.metric("🇦🇹 v 🇫🇷", "1-0")
-col5.metric("🇵🇹 v 🇨🇿", "1-1")
+# Mapping for country flags
+country_flags = {
+    "Germany": "🇩🇪",
+    "Scotland": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "Spain": "🇪🇸",
+    "Croatia": "🇭🇷",
+    "Serbia": "🇷🇸",
+    "England": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "Austria": "🇦🇹",
+    "France": "🇫🇷",
+    "Portugal": "🇵🇹",
+    "Czech Republic": "🇨🇿",
+    "Switzerland": "🇨🇭",
+    "Italy": "🇮🇹",
+    "Denmark": "🇩🇰",
+    "Netherlands": "🇳🇱",
+    "Belgium": "🇧🇪",
+    "Romania": "🇷🇴",
+    "Hungary": "🇭🇺",
+    "Slovenia": "🇸🇮",
+    "Ukraine": "🇺🇦"
+}
+
+# Read data from CSV
+results = pd.read_csv('data/results.csv')
+
+# Find the latest matchday
+latest_matchday = results['matchday'].max()
+
+# Filter data based on the latest matchday
+filtered_results = results[results['matchday'] == latest_matchday]
+
+# Create a dynamic heading
+st.header(f"Matchday {latest_matchday}")
+
+# Display the filtered data
+columns = st.columns(5)
+for i, (index, row) in enumerate(filtered_results.iterrows()):
+    col = columns[i % 5]
+    home_flag = country_flags.get(row['home'], "🏴")
+    away_flag = country_flags.get(row['away'], "🏴")
+    col.metric(f"{home_flag} v {away_flag}", row['actual_score'])
 
 st.header('Highlights')
 
