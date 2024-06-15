@@ -30,13 +30,13 @@ country_flags = {
 
 # Read data from CSV
 results = pd.read_csv('data/results.csv')
-results = results.dropna(subset=['actual_score'])
+filtered_results = results.dropna(subset=['actual_score'])
 
 # Find the latest matchday
-latest_matchday = results['matchday'].max()
+latest_matchday = filtered_results['matchday'].max()
 
 # Filter data based on the latest matchday
-filtered_results = results[results['matchday'] == latest_matchday]
+filtered_results = filtered_results[filtered_results['matchday'] == latest_matchday]
 
 # Create a dynamic heading
 st.header(f"Matchday {latest_matchday}")
@@ -258,6 +258,21 @@ plot_df = plot_df.sort_values(by='match_code')
 
 # Calculate the cumulative sum of total_points
 plot_df['cumulative_total_points'] = plot_df.groupby('name')['total_points'].cumsum()
+
+# Assuming plot_df is your dataframe
+
+# Add initial data points for each player
+initial_points = plot_df[['name']].drop_duplicates()
+initial_points['match_code'] = 'M00'
+initial_points['cumulative_total_points'] = 0
+initial_points['home'] = ''
+initial_points['away'] = ''
+initial_points['total_points'] = 0
+initial_points['predicted_score'] = ''
+initial_points['actual_score'] = ''
+
+# Concatenate the initial points with the original dataframe
+plot_df = pd.concat([initial_points, plot_df], ignore_index=True).sort_values(by=['name', 'match_code'])
 
 # Create traces for each name
 traces = []
