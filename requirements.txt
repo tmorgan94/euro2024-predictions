@@ -1,5 +1,3 @@
 streamlit>=1.26.0
 pandas
 plotly
-streamlit_gsheets
-GSheetsConnection
