@@ -30,6 +30,7 @@ country_flags = {
 
 # Read data from CSV
 results = pd.read_csv('data/results.csv')
+results = results.dropna(subset=['actual_score'])
 
 # Find the latest matchday
 latest_matchday = results['matchday'].max()
