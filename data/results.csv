@@ -2,7 +2,7 @@ match_code,home,away,actual_score,matchday,stage,stage_detail,match_time
 M01,Germany,Scotland,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
 M03,Spain,Croatia,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
 M05,Serbia,England,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
-M08,Austria,France,,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
+M08,Austria,France,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
 M12,Portugal,Czech Republic,,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
 M13,Scotland,Switzerland,,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
 M16,Spain,Italy,,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00

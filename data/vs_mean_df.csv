@@ -1,11 +1,11 @@
 ,name,matchday,stage_detail,base_points,total_points,cumulative_total_points,cumulative_avg_total_points,difference
-0,Corfe,1,01. Groups - Matchday 1,3,4,4,3.9,0.10000000000000009
-1,Ed,1,01. Groups - Matchday 1,2,3,3,3.9,-0.8999999999999999
-2,Jay,1,01. Groups - Matchday 1,4,4,4,3.9,0.10000000000000009
-3,Jonny,1,01. Groups - Matchday 1,3,4,4,3.9,0.10000000000000009
-4,Larry,1,01. Groups - Matchday 1,3,4,4,3.9,0.10000000000000009
-5,Luke,1,01. Groups - Matchday 1,5,6,6,3.9,2.1
-6,Marc,1,01. Groups - Matchday 1,3,4,4,3.9,0.10000000000000009
-7,Peter Popular,1,01. Groups - Matchday 1,3,4,4,3.9,0.10000000000000009
-8,Rando Randal,1,01. Groups - Matchday 1,2,3,3,3.9,-0.8999999999999999
-9,Tom,1,01. Groups - Matchday 1,2,3,3,3.9,-0.8999999999999999
+0,Corfe,1,01. Groups - Matchday 1,4,5,5,4.8,0.20000000000000018
+1,Ed,1,01. Groups - Matchday 1,3,4,4,4.8,-0.7999999999999998
+2,Jay,1,01. Groups - Matchday 1,5,5,5,4.8,0.20000000000000018
+3,Jonny,1,01. Groups - Matchday 1,4,5,5,4.8,0.20000000000000018
+4,Larry,1,01. Groups - Matchday 1,4,5,5,4.8,0.20000000000000018
+5,Luke,1,01. Groups - Matchday 1,6,7,7,4.8,2.2
+6,Marc,1,01. Groups - Matchday 1,4,5,5,4.8,0.20000000000000018
+7,Peter Popular,1,01. Groups - Matchday 1,4,5,5,4.8,0.20000000000000018
+8,Rando Randal,1,01. Groups - Matchday 1,2,3,3,4.8,-1.7999999999999998
+9,Tom,1,01. Groups - Matchday 1,3,4,4,4.8,-0.7999999999999998
