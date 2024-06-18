@@ -302,23 +302,36 @@ fig = go.Figure(data=traces, layout=layout)
 # Streamlit app
 st.plotly_chart(fig)
 
-vs_mean_df = pd.read_csv('data/vs_mean_df.csv')
+# Read the updated data with match_code
+vs_mean_match_code_df = pd.read_csv('data/vs_mean_match_code_df.csv')
+
+# Ensure match_code column is sorted to ensure correct plotting order
+vs_mean_match_code_df['match_code'] = pd.Categorical(vs_mean_match_code_df['match_code'], categories=sorted(vs_mean_match_code_df['match_code'].unique()))
+
+# Ensure 'M00' rows are present for each player
+players = vs_mean_match_code_df['name'].unique()
+initial_data = []
+for player in players:
+    initial_data.append({'name': player, 'match_code': 'M00', 'cumulative_total_points': 0, 'cumulative_avg_total_points': 0, 'difference': 0})
+
+initial_df = pd.DataFrame(initial_data)
+vs_mean_match_code_df = pd.concat([initial_df, vs_mean_match_code_df], ignore_index=True)
 
 # Plotly line graph
 fig = px.line(
-    vs_mean_df, 
-    x='stage_detail', 
+    vs_mean_match_code_df, 
+    x='match_code',  # Use match_code on the x-axis
     y='difference', 
     color='name', 
-    color_discrete_map=colors_names,
+    color_discrete_map=colors_names,  # Apply custom colors
     markers=True, 
-    labels={'stage_detail': 'Matchday', 'difference': 'Difference from Mean'},
-    title='Difference from Mean Total Points by Matchday'
+    labels={'match_code': 'Match Code', 'difference': 'Difference from Mean'},
+    title='Difference from Mean Total Points by Match'
 )
 
-# Customize the layout to match the previous bar plot
+# Customize the layout
 fig.update_layout(
-    xaxis_title='Matchday',
+    xaxis_title='Match Code',
     yaxis_title='Difference from Mean',
     font=dict(family='Arial', size=12),
     title_font=dict(family='Arial', size=16),
@@ -331,3 +344,48 @@ fig.update_layout(
 
 # Streamlit app
 st.plotly_chart(fig)
+
+st.markdown("""
+            ---
+            ## Predictions
+            """
+)
+
+# Read predictions dataframe
+df_predictions_full = pd.read_csv('data/df_predictions_full.csv')
+
+# Get unique matchdays
+matchdays = df_predictions_full['stage_detail'].unique()
+
+# Create a selectbox for matchdays
+selected_matchday = st.selectbox(label='Select Matchday', options=matchdays, index=0)
+
+# Create a concatenated match column
+df_predictions_full['match'] = df_predictions_full['match_code'] + '. ' + df_predictions_full['home'] + ' v ' + df_predictions_full['away']
+
+# Pivot the DataFrame
+pivot_df = df_predictions_full.pivot_table(index='match', columns='name', values='predicted_score', aggfunc='first').reset_index()
+
+# Flatten the columns
+pivot_df.columns.name = None
+pivot_df.columns = [str(col) for col in pivot_df.columns]
+
+# Reorder columns
+column_order = ['match', 'Corfe', 'Ed', 'Jay', 'Jonny', 'Larry', 'Luke', 'Marc', 'Tom', 'Peter Popular', 'Rando Randal']
+for col in column_order:
+    if col not in pivot_df.columns:
+        pivot_df[col] = None
+pivot_df = pivot_df[column_order]
+
+# Function to apply conditional formatting
+def highlight_bonus(val, match, player):
+    bonus_row = df_predictions_full[(df_predictions_full['match'] == match) & (df_predictions_full['name'] == player)]
+    if not bonus_row.empty and bonus_row.iloc[0]['points_multiplier'] == 2:
+        return 'background-color: #F64271; color: White'
+    return ''
+
+# Apply conditional formatting
+styled_df = pivot_df.style.apply(lambda x: [highlight_bonus(x[col], x['match'], col) for col in x.index], axis=1)
+
+# Display the styled DataFrame
+st.dataframe(styled_df, use_container_width=True, hide_index=True)
