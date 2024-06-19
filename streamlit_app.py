@@ -354,17 +354,20 @@ st.markdown("""
 # Read predictions dataframe
 df_predictions_full = pd.read_csv('data/df_predictions_full.csv')
 
-# Get unique matchdays
-matchdays = df_predictions_full['stage_detail'].unique()
+# Get unique matchdays and sort them to ensure the latest matchday is first
+matchdays = sorted(df_predictions_full['stage_detail'].unique(), reverse=True)
 
-# Create a selectbox for matchdays
+# Create a selectbox for matchdays, with the default selection as the latest matchday
 selected_matchday = st.selectbox(label='Select Matchday', options=matchdays, index=0)
 
+# Filter the dataframe based on the selected matchday
+df_predictions = df_predictions_full[df_predictions_full['stage_detail'] == selected_matchday].copy()
+
 # Create a concatenated match column
-df_predictions_full['match'] = df_predictions_full['match_code'] + '. ' + df_predictions_full['home'] + ' v ' + df_predictions_full['away']
+df_predictions['match'] = df_predictions['match_code'] + '. ' + df_predictions['home'] + ' v ' + df_predictions['away']
 
 # Pivot the DataFrame
-pivot_df = df_predictions_full.pivot_table(index='match', columns='name', values='predicted_score', aggfunc='first').reset_index()
+pivot_df = df_predictions.pivot_table(index='match', columns='name', values='predicted_score', aggfunc='first').reset_index()
 
 # Flatten the columns
 pivot_df.columns.name = None
@@ -379,7 +382,7 @@ pivot_df = pivot_df[column_order]
 
 # Function to apply conditional formatting
 def highlight_bonus(val, match, player):
-    bonus_row = df_predictions_full[(df_predictions_full['match'] == match) & (df_predictions_full['name'] == player)]
+    bonus_row = df_predictions[(df_predictions['match'] == match) & (df_predictions['name'] == player)]
     if not bonus_row.empty and bonus_row.iloc[0]['points_multiplier'] == 2:
         return 'background-color: #F64271; color: White'
     return ''
