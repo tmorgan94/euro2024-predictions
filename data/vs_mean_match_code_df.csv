@@ -4,48 +4,58 @@
 2,Corfe,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
 3,Corfe,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
 4,Corfe,M12,01. Groups - Matchday 1,1,1,6,6.2,-0.20000000000000018
-5,Ed,M01,01. Groups - Matchday 1,1,1,1,1.6,-0.6000000000000001
-6,Ed,M03,01. Groups - Matchday 1,0,0,1,2.2,-1.2000000000000002
-7,Ed,M05,01. Groups - Matchday 1,1,2,3,3.9,-0.8999999999999999
-8,Ed,M08,01. Groups - Matchday 1,1,1,4,4.8,-0.7999999999999998
-9,Ed,M12,01. Groups - Matchday 1,1,1,5,6.2,-1.2000000000000002
-10,Jay,M01,01. Groups - Matchday 1,1,1,1,1.6,-0.6000000000000001
-11,Jay,M03,01. Groups - Matchday 1,0,0,1,2.2,-1.2000000000000002
-12,Jay,M05,01. Groups - Matchday 1,3,3,4,3.9,0.10000000000000009
-13,Jay,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
-14,Jay,M12,01. Groups - Matchday 1,1,2,7,6.2,0.7999999999999998
-15,Jonny,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
-16,Jonny,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
-17,Jonny,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
-18,Jonny,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
-19,Jonny,M12,01. Groups - Matchday 1,3,3,8,6.2,1.7999999999999998
-20,Larry,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
-21,Larry,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
-22,Larry,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
-23,Larry,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
-24,Larry,M12,01. Groups - Matchday 1,3,3,8,6.2,1.7999999999999998
-25,Luke,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
-26,Luke,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
-27,Luke,M05,01. Groups - Matchday 1,3,3,6,3.9,2.1
-28,Luke,M08,01. Groups - Matchday 1,1,1,7,4.8,2.2
-29,Luke,M12,01. Groups - Matchday 1,1,1,8,6.2,1.7999999999999998
-30,Marc,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
-31,Marc,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
-32,Marc,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
-33,Marc,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
-34,Marc,M12,01. Groups - Matchday 1,0,0,5,6.2,-1.2000000000000002
-35,Peter Popular,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
-36,Peter Popular,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
-37,Peter Popular,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
-38,Peter Popular,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
-39,Peter Popular,M12,01. Groups - Matchday 1,1,1,6,6.2,-0.20000000000000018
-40,Rando Randal,M01,01. Groups - Matchday 1,1,1,1,1.6,-0.6000000000000001
-41,Rando Randal,M03,01. Groups - Matchday 1,0,0,1,2.2,-1.2000000000000002
-42,Rando Randal,M05,01. Groups - Matchday 1,1,2,3,3.9,-0.8999999999999999
-43,Rando Randal,M08,01. Groups - Matchday 1,0,0,3,4.8,-1.7999999999999998
-44,Rando Randal,M12,01. Groups - Matchday 1,1,1,4,6.2,-2.2
-45,Tom,M01,01. Groups - Matchday 1,1,1,1,1.6,-0.6000000000000001
-46,Tom,M03,01. Groups - Matchday 1,0,0,1,2.2,-1.2000000000000002
-47,Tom,M05,01. Groups - Matchday 1,1,2,3,3.9,-0.8999999999999999
-48,Tom,M08,01. Groups - Matchday 1,1,1,4,4.8,-0.7999999999999998
-49,Tom,M12,01. Groups - Matchday 1,1,1,5,6.2,-1.2000000000000002
+5,Corfe,M13,02. Groups - Matchday 2,0,0,6,6.2,-0.20000000000000018
+6,Ed,M01,01. Groups - Matchday 1,1,1,1,1.6,-0.6000000000000001
+7,Ed,M03,01. Groups - Matchday 1,0,0,1,2.2,-1.2000000000000002
+8,Ed,M05,01. Groups - Matchday 1,1,2,3,3.9,-0.8999999999999999
+9,Ed,M08,01. Groups - Matchday 1,1,1,4,4.8,-0.7999999999999998
+10,Ed,M12,01. Groups - Matchday 1,1,1,5,6.2,-1.2000000000000002
+11,Ed,M13,02. Groups - Matchday 2,0,0,5,6.2,-1.2000000000000002
+12,Jay,M01,01. Groups - Matchday 1,1,1,1,1.6,-0.6000000000000001
+13,Jay,M03,01. Groups - Matchday 1,0,0,1,2.2,-1.2000000000000002
+14,Jay,M05,01. Groups - Matchday 1,3,3,4,3.9,0.10000000000000009
+15,Jay,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
+16,Jay,M12,01. Groups - Matchday 1,1,2,7,6.2,0.7999999999999998
+17,Jay,M13,02. Groups - Matchday 2,0,0,7,6.2,0.7999999999999998
+18,Jonny,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
+19,Jonny,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
+20,Jonny,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
+21,Jonny,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
+22,Jonny,M12,01. Groups - Matchday 1,3,3,8,6.2,1.7999999999999998
+23,Jonny,M13,02. Groups - Matchday 2,0,0,8,6.2,1.7999999999999998
+24,Larry,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
+25,Larry,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
+26,Larry,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
+27,Larry,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
+28,Larry,M12,01. Groups - Matchday 1,3,3,8,6.2,1.7999999999999998
+29,Larry,M13,02. Groups - Matchday 2,0,0,8,6.2,1.7999999999999998
+30,Luke,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
+31,Luke,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
+32,Luke,M05,01. Groups - Matchday 1,3,3,6,3.9,2.1
+33,Luke,M08,01. Groups - Matchday 1,1,1,7,4.8,2.2
+34,Luke,M12,01. Groups - Matchday 1,1,1,8,6.2,1.7999999999999998
+35,Luke,M13,02. Groups - Matchday 2,0,0,8,6.2,1.7999999999999998
+36,Marc,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
+37,Marc,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
+38,Marc,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
+39,Marc,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
+40,Marc,M12,01. Groups - Matchday 1,0,0,5,6.2,-1.2000000000000002
+41,Marc,M13,02. Groups - Matchday 2,0,0,5,6.2,-1.2000000000000002
+42,Peter Popular,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
+43,Peter Popular,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
+44,Peter Popular,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
+45,Peter Popular,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
+46,Peter Popular,M12,01. Groups - Matchday 1,1,1,6,6.2,-0.20000000000000018
+47,Peter Popular,M13,02. Groups - Matchday 2,0,0,6,6.2,-0.20000000000000018
+48,Rando Randal,M01,01. Groups - Matchday 1,1,1,1,1.6,-0.6000000000000001
+49,Rando Randal,M03,01. Groups - Matchday 1,0,0,1,2.2,-1.2000000000000002
+50,Rando Randal,M05,01. Groups - Matchday 1,1,2,3,3.9,-0.8999999999999999
+51,Rando Randal,M08,01. Groups - Matchday 1,0,0,3,4.8,-1.7999999999999998
+52,Rando Randal,M12,01. Groups - Matchday 1,1,1,4,6.2,-2.2
+53,Rando Randal,M13,02. Groups - Matchday 2,0,0,4,6.2,-2.2
+54,Tom,M01,01. Groups - Matchday 1,1,1,1,1.6,-0.6000000000000001
+55,Tom,M03,01. Groups - Matchday 1,0,0,1,2.2,-1.2000000000000002
+56,Tom,M05,01. Groups - Matchday 1,1,2,3,3.9,-0.8999999999999999
+57,Tom,M08,01. Groups - Matchday 1,1,1,4,4.8,-0.7999999999999998
+58,Tom,M12,01. Groups - Matchday 1,1,1,5,6.2,-1.2000000000000002
+59,Tom,M13,02. Groups - Matchday 2,0,0,5,6.2,-1.2000000000000002
