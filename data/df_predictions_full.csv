@@ -79,16 +79,16 @@ timestamp,name,match_code,home,away,predicted_score,points_multiplier,actual_sco
 19/06/2024 12:58:03,Corfe,M17,Denmark,England,0-2,2,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
 19/06/2024 20:40:28,Peter Popular,M17,Denmark,England,1-2,1,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
 19/06/2024 20:45:30,Rando Randal,M17,Denmark,England,2-5,1,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
-15/06/2024 19:43:14,Tom,M20,Netherlands,France,1-2,1,,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-15/06/2024 19:50:30,Jonny,M20,Netherlands,France,1-2,1,,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-17/06/2024 20:31:11,Larry,M20,Netherlands,France,2-3,2,,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-18/06/2024 22:03:06,Jay,M20,Netherlands,France,2-2,1,,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-19/06/2024 05:08:55,Marc,M20,Netherlands,France,0-2,2,,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-19/06/2024 10:33:25,Luke,M20,Netherlands,France,1-1,1,,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-19/06/2024 11:04:58,Ed,M20,Netherlands,France,1-2,1,,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-19/06/2024 12:58:03,Corfe,M20,Netherlands,France,0-1,1,,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-19/06/2024 20:40:28,Peter Popular,M20,Netherlands,France,1-2,1,,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-19/06/2024 20:45:30,Rando Randal,M20,Netherlands,France,3-2,1,,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+15/06/2024 19:43:14,Tom,M20,Netherlands,France,1-2,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+15/06/2024 19:50:30,Jonny,M20,Netherlands,France,1-2,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+17/06/2024 20:31:11,Larry,M20,Netherlands,France,2-3,2,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+18/06/2024 22:03:06,Jay,M20,Netherlands,France,2-2,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+19/06/2024 05:08:55,Marc,M20,Netherlands,France,0-2,2,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+19/06/2024 10:33:25,Luke,M20,Netherlands,France,1-1,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+19/06/2024 11:04:58,Ed,M20,Netherlands,France,1-2,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+19/06/2024 12:58:03,Corfe,M20,Netherlands,France,0-1,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+19/06/2024 20:40:28,Peter Popular,M20,Netherlands,France,1-2,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+19/06/2024 20:45:30,Rando Randal,M20,Netherlands,France,3-2,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
 15/06/2024 19:43:14,Tom,M22,Belgium,Romania,3-0,1,,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
 15/06/2024 19:50:30,Jonny,M22,Belgium,Romania,2-0,2,,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
 17/06/2024 20:31:11,Larry,M22,Belgium,Romania,3-0,1,,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
