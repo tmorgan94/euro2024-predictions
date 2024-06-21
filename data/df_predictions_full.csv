@@ -77,7 +77,7 @@ timestamp,name,match_code,home,away,predicted_score,points_multiplier,actual_sco
 19/06/2024 10:33:25,Luke,M17,Denmark,England,0-1,2,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
 19/06/2024 11:04:58,Ed,M17,Denmark,England,1-2,2,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
 19/06/2024 12:58:03,Corfe,M17,Denmark,England,0-2,2,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
-19/06/2024 20:40:28,Peter Popular,M17,Denmark,England,1-2,1,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
+19/06/2024 20:40:28,Peter Popular,M17,Denmark,England,1-2,2,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
 19/06/2024 20:45:30,Rando Randal,M17,Denmark,England,2-5,1,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
 15/06/2024 19:43:14,Tom,M20,Netherlands,France,1-2,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
 15/06/2024 19:50:30,Jonny,M20,Netherlands,France,1-2,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
@@ -97,5 +97,5 @@ timestamp,name,match_code,home,away,predicted_score,points_multiplier,actual_sco
 19/06/2024 10:33:25,Luke,M22,Belgium,Romania,2-0,1,,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
 19/06/2024 11:04:58,Ed,M22,Belgium,Romania,2-1,1,,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
 19/06/2024 12:58:03,Corfe,M22,Belgium,Romania,2-1,1,,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
-19/06/2024 20:40:28,Peter Popular,M22,Belgium,Romania,2-0,2,,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
+19/06/2024 20:40:28,Peter Popular,M22,Belgium,Romania,2-0,1,,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
 19/06/2024 20:45:30,Rando Randal,M22,Belgium,Romania,0-2,1,,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
