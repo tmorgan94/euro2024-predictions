@@ -1,31 +1,31 @@
 ,name,matchday,stage_detail,base_points,total_points,cumulative_total_points,cumulative_avg_total_points,difference
 0,Corfe,1,01. Groups - Matchday 1,5,6,6,6.2,-0.20000000000000018
 1,Corfe,2,02. Groups - Matchday 2,1,1,7,8.8,-1.8000000000000007
-2,Corfe,3,03. Groups - Matchday 3,3,3,10,10.1,-0.09999999999999964
+2,Corfe,3,03. Groups - Matchday 3,3,3,10,10.2,-0.1999999999999993
 3,Ed,1,01. Groups - Matchday 1,4,5,5,6.2,-1.2000000000000002
 4,Ed,2,02. Groups - Matchday 2,1,1,6,8.8,-2.8000000000000007
-5,Ed,3,03. Groups - Matchday 3,0,0,6,10.1,-4.1
+5,Ed,3,03. Groups - Matchday 3,0,0,6,10.2,-4.199999999999999
 6,Jay,1,01. Groups - Matchday 1,6,7,7,6.2,0.7999999999999998
 7,Jay,2,02. Groups - Matchday 2,4,4,11,8.8,2.1999999999999993
-8,Jay,3,03. Groups - Matchday 3,0,0,11,10.1,0.9000000000000004
+8,Jay,3,03. Groups - Matchday 3,0,0,11,10.2,0.8000000000000007
 9,Jonny,1,01. Groups - Matchday 1,7,8,8,6.2,1.7999999999999998
 10,Jonny,2,02. Groups - Matchday 2,4,7,15,8.8,6.199999999999999
-11,Jonny,3,03. Groups - Matchday 3,3,3,18,10.1,7.9
+11,Jonny,3,03. Groups - Matchday 3,3,3,18,10.2,7.800000000000001
 12,Larry,1,01. Groups - Matchday 1,7,8,8,6.2,1.7999999999999998
 13,Larry,2,02. Groups - Matchday 2,2,2,10,8.8,1.1999999999999993
-14,Larry,3,03. Groups - Matchday 3,0,0,10,10.1,-0.09999999999999964
+14,Larry,3,03. Groups - Matchday 3,1,1,11,10.2,0.8000000000000007
 15,Luke,1,01. Groups - Matchday 1,7,8,8,6.2,1.7999999999999998
 16,Luke,2,02. Groups - Matchday 2,4,4,12,8.8,3.1999999999999993
-17,Luke,3,03. Groups - Matchday 3,1,1,13,10.1,2.9000000000000004
+17,Luke,3,03. Groups - Matchday 3,1,1,13,10.2,2.8000000000000007
 18,Marc,1,01. Groups - Matchday 1,4,5,5,6.2,-1.2000000000000002
 19,Marc,2,02. Groups - Matchday 2,1,1,6,8.8,-2.8000000000000007
-20,Marc,3,03. Groups - Matchday 3,1,1,7,10.1,-3.0999999999999996
+20,Marc,3,03. Groups - Matchday 3,1,1,7,10.2,-3.1999999999999993
 21,Peter Popular,1,01. Groups - Matchday 1,5,6,6,6.2,-0.20000000000000018
 22,Peter Popular,2,02. Groups - Matchday 2,4,4,10,8.8,1.1999999999999993
-23,Peter Popular,3,03. Groups - Matchday 3,0,0,10,10.1,-0.09999999999999964
+23,Peter Popular,3,03. Groups - Matchday 3,0,0,10,10.2,-0.1999999999999993
 24,Rando Randal,1,01. Groups - Matchday 1,3,4,4,6.2,-2.2
 25,Rando Randal,2,02. Groups - Matchday 2,0,0,4,8.8,-4.800000000000001
-26,Rando Randal,3,03. Groups - Matchday 3,1,1,5,10.1,-5.1
+26,Rando Randal,3,03. Groups - Matchday 3,1,1,5,10.2,-5.199999999999999
 27,Tom,1,01. Groups - Matchday 1,4,5,5,6.2,-1.2000000000000002
 28,Tom,2,02. Groups - Matchday 2,2,2,7,8.8,-1.8000000000000007
-29,Tom,3,03. Groups - Matchday 3,4,4,11,10.1,0.9000000000000004
+29,Tom,3,03. Groups - Matchday 3,4,4,11,10.2,0.8000000000000007
