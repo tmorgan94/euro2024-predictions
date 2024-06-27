@@ -25,7 +25,9 @@ country_flags = {
     "Romania": "🇷🇴",
     "Hungary": "🇭🇺",
     "Slovenia": "🇸🇮",
-    "Ukraine": "🇺🇦"
+    "Ukraine": "🇺🇦",
+    "Turkey": "🇹🇷",
+
 }
 
 # Read data from CSV
