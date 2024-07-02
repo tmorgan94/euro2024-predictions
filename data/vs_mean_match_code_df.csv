@@ -18,174 +18,194 @@
 16,Corfe,M38,04. KO - Round of 16,0,0,16,14.3,1.6999999999999993
 17,Corfe,M39,04. KO - Round of 16,1,1,17,15.7,1.3000000000000007
 18,Corfe,M40,04. KO - Round of 16,0,0,17,15.7,1.3000000000000007
-19,Ed,M01,01. Groups - Matchday 1,1,1,1,1.6,-0.6000000000000001
-20,Ed,M03,01. Groups - Matchday 1,0,0,1,2.2,-1.2000000000000002
-21,Ed,M05,01. Groups - Matchday 1,1,2,3,3.9,-0.8999999999999999
-22,Ed,M08,01. Groups - Matchday 1,1,1,4,4.8,-0.7999999999999998
-23,Ed,M12,01. Groups - Matchday 1,1,1,5,6.2,-1.2000000000000002
-24,Ed,M13,02. Groups - Matchday 2,0,0,5,6.2,-1.2000000000000002
-25,Ed,M16,02. Groups - Matchday 2,0,0,5,6.8,-1.7999999999999998
-26,Ed,M17,02. Groups - Matchday 2,0,0,5,6.9,-1.9000000000000004
-27,Ed,M20,02. Groups - Matchday 2,0,0,5,7.1,-2.0999999999999996
-28,Ed,M22,02. Groups - Matchday 2,1,1,6,8.8,-2.8000000000000007
-29,Ed,M26,03. Groups - Matchday 3,0,0,6,9.3,-3.3000000000000007
-30,Ed,M28,03. Groups - Matchday 3,0,0,6,10.0,-4.0
-31,Ed,M30,03. Groups - Matchday 3,0,0,6,10.1,-4.1
-32,Ed,M31,03. Groups - Matchday 3,0,0,6,10.2,-4.199999999999999
-33,Ed,M36,03. Groups - Matchday 3,3,3,9,11.8,-2.8000000000000007
-34,Ed,M37,04. KO - Round of 16,3,3,12,14.1,-2.0999999999999996
-35,Ed,M38,04. KO - Round of 16,0,0,12,14.3,-2.3000000000000007
-36,Ed,M39,04. KO - Round of 16,1,2,14,15.7,-1.6999999999999993
-37,Ed,M40,04. KO - Round of 16,0,0,14,15.7,-1.6999999999999993
-38,Jay,M01,01. Groups - Matchday 1,1,1,1,1.6,-0.6000000000000001
-39,Jay,M03,01. Groups - Matchday 1,0,0,1,2.2,-1.2000000000000002
-40,Jay,M05,01. Groups - Matchday 1,3,3,4,3.9,0.10000000000000009
-41,Jay,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
-42,Jay,M12,01. Groups - Matchday 1,1,2,7,6.2,0.7999999999999998
-43,Jay,M13,02. Groups - Matchday 2,0,0,7,6.2,0.7999999999999998
-44,Jay,M16,02. Groups - Matchday 2,1,1,8,6.8,1.2000000000000002
-45,Jay,M17,02. Groups - Matchday 2,1,1,9,6.9,2.0999999999999996
-46,Jay,M20,02. Groups - Matchday 2,1,1,10,7.1,2.9000000000000004
-47,Jay,M22,02. Groups - Matchday 2,1,1,11,8.8,2.1999999999999993
-48,Jay,M26,03. Groups - Matchday 3,0,0,11,9.3,1.6999999999999993
-49,Jay,M28,03. Groups - Matchday 3,0,0,11,10.0,1.0
-50,Jay,M30,03. Groups - Matchday 3,0,0,11,10.1,0.9000000000000004
-51,Jay,M31,03. Groups - Matchday 3,0,0,11,10.2,0.8000000000000007
-52,Jay,M36,03. Groups - Matchday 3,3,6,17,11.8,5.199999999999999
-53,Jay,M37,04. KO - Round of 16,1,1,18,14.1,3.9000000000000004
-54,Jay,M38,04. KO - Round of 16,1,1,19,14.3,4.699999999999999
-55,Jay,M39,04. KO - Round of 16,1,2,21,15.7,5.300000000000001
-56,Jay,M40,04. KO - Round of 16,0,0,21,15.7,5.300000000000001
-57,Jonny,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
-58,Jonny,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
-59,Jonny,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
-60,Jonny,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
-61,Jonny,M12,01. Groups - Matchday 1,3,3,8,6.2,1.7999999999999998
-62,Jonny,M13,02. Groups - Matchday 2,0,0,8,6.2,1.7999999999999998
-63,Jonny,M16,02. Groups - Matchday 2,1,1,9,6.8,2.2
-64,Jonny,M17,02. Groups - Matchday 2,0,0,9,6.9,2.0999999999999996
-65,Jonny,M20,02. Groups - Matchday 2,0,0,9,7.1,1.9000000000000004
-66,Jonny,M22,02. Groups - Matchday 2,3,6,15,8.8,6.199999999999999
-67,Jonny,M26,03. Groups - Matchday 3,0,0,15,9.3,5.699999999999999
-68,Jonny,M28,03. Groups - Matchday 3,3,3,18,10.0,8.0
-69,Jonny,M30,03. Groups - Matchday 3,0,0,18,10.1,7.9
-70,Jonny,M31,03. Groups - Matchday 3,0,0,18,10.2,7.800000000000001
-71,Jonny,M36,03. Groups - Matchday 3,0,0,18,11.8,6.199999999999999
-72,Jonny,M37,04. KO - Round of 16,3,3,21,14.1,6.9
-73,Jonny,M38,04. KO - Round of 16,0,0,21,14.3,6.699999999999999
-74,Jonny,M39,04. KO - Round of 16,1,2,23,15.7,7.300000000000001
-75,Jonny,M40,04. KO - Round of 16,0,0,23,15.7,7.300000000000001
-76,Larry,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
-77,Larry,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
-78,Larry,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
-79,Larry,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
-80,Larry,M12,01. Groups - Matchday 1,3,3,8,6.2,1.7999999999999998
-81,Larry,M13,02. Groups - Matchday 2,0,0,8,6.2,1.7999999999999998
-82,Larry,M16,02. Groups - Matchday 2,1,1,9,6.8,2.2
-83,Larry,M17,02. Groups - Matchday 2,0,0,9,6.9,2.0999999999999996
-84,Larry,M20,02. Groups - Matchday 2,0,0,9,7.1,1.9000000000000004
-85,Larry,M22,02. Groups - Matchday 2,1,1,10,8.8,1.1999999999999993
-86,Larry,M26,03. Groups - Matchday 3,0,0,10,9.3,0.6999999999999993
-87,Larry,M28,03. Groups - Matchday 3,0,0,10,10.0,0.0
-88,Larry,M30,03. Groups - Matchday 3,1,1,11,10.1,0.9000000000000004
-89,Larry,M31,03. Groups - Matchday 3,0,0,11,10.2,0.8000000000000007
-90,Larry,M36,03. Groups - Matchday 3,0,0,11,11.8,-0.8000000000000007
-91,Larry,M37,04. KO - Round of 16,1,2,13,14.1,-1.0999999999999996
-92,Larry,M38,04. KO - Round of 16,1,1,14,14.3,-0.3000000000000007
-93,Larry,M39,04. KO - Round of 16,1,1,15,15.7,-0.6999999999999993
-94,Larry,M40,04. KO - Round of 16,0,0,15,15.7,-0.6999999999999993
-95,Luke,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
-96,Luke,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
-97,Luke,M05,01. Groups - Matchday 1,3,3,6,3.9,2.1
-98,Luke,M08,01. Groups - Matchday 1,1,1,7,4.8,2.2
-99,Luke,M12,01. Groups - Matchday 1,1,1,8,6.2,1.7999999999999998
-100,Luke,M13,02. Groups - Matchday 2,0,0,8,6.2,1.7999999999999998
-101,Luke,M16,02. Groups - Matchday 2,0,0,8,6.8,1.2000000000000002
-102,Luke,M17,02. Groups - Matchday 2,0,0,8,6.9,1.0999999999999996
-103,Luke,M20,02. Groups - Matchday 2,1,1,9,7.1,1.9000000000000004
-104,Luke,M22,02. Groups - Matchday 2,3,3,12,8.8,3.1999999999999993
-105,Luke,M26,03. Groups - Matchday 3,1,1,13,9.3,3.6999999999999993
-106,Luke,M28,03. Groups - Matchday 3,0,0,13,10.0,3.0
-107,Luke,M30,03. Groups - Matchday 3,0,0,13,10.1,2.9000000000000004
-108,Luke,M31,03. Groups - Matchday 3,0,0,13,10.2,2.8000000000000007
-109,Luke,M36,03. Groups - Matchday 3,0,0,13,11.8,1.1999999999999993
-110,Luke,M37,04. KO - Round of 16,1,1,14,14.1,-0.09999999999999964
-111,Luke,M38,04. KO - Round of 16,0,0,14,14.3,-0.3000000000000007
-112,Luke,M39,04. KO - Round of 16,1,2,16,15.7,0.3000000000000007
-113,Luke,M40,04. KO - Round of 16,0,0,16,15.7,0.3000000000000007
-114,Marc,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
-115,Marc,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
-116,Marc,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
-117,Marc,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
-118,Marc,M12,01. Groups - Matchday 1,0,0,5,6.2,-1.2000000000000002
-119,Marc,M13,02. Groups - Matchday 2,0,0,5,6.2,-1.2000000000000002
-120,Marc,M16,02. Groups - Matchday 2,1,1,6,6.8,-0.7999999999999998
-121,Marc,M17,02. Groups - Matchday 2,0,0,6,6.9,-0.9000000000000004
-122,Marc,M20,02. Groups - Matchday 2,0,0,6,7.1,-1.0999999999999996
-123,Marc,M22,02. Groups - Matchday 2,0,0,6,8.8,-2.8000000000000007
-124,Marc,M26,03. Groups - Matchday 3,0,0,6,9.3,-3.3000000000000007
-125,Marc,M28,03. Groups - Matchday 3,1,1,7,10.0,-3.0
-126,Marc,M30,03. Groups - Matchday 3,0,0,7,10.1,-3.0999999999999996
-127,Marc,M31,03. Groups - Matchday 3,0,0,7,10.2,-3.1999999999999993
-128,Marc,M36,03. Groups - Matchday 3,0,0,7,11.8,-4.800000000000001
-129,Marc,M37,04. KO - Round of 16,1,1,8,14.1,-6.1
-130,Marc,M38,04. KO - Round of 16,0,0,8,14.3,-6.300000000000001
-131,Marc,M39,04. KO - Round of 16,1,1,9,15.7,-6.699999999999999
-132,Marc,M40,04. KO - Round of 16,0,0,9,15.7,-6.699999999999999
-133,Peter Popular,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
-134,Peter Popular,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
-135,Peter Popular,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
-136,Peter Popular,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
-137,Peter Popular,M12,01. Groups - Matchday 1,1,1,6,6.2,-0.20000000000000018
-138,Peter Popular,M13,02. Groups - Matchday 2,0,0,6,6.2,-0.20000000000000018
-139,Peter Popular,M16,02. Groups - Matchday 2,1,1,7,6.8,0.20000000000000018
-140,Peter Popular,M17,02. Groups - Matchday 2,0,0,7,6.9,0.09999999999999964
-141,Peter Popular,M20,02. Groups - Matchday 2,0,0,7,7.1,-0.09999999999999964
-142,Peter Popular,M22,02. Groups - Matchday 2,3,3,10,8.8,1.1999999999999993
-143,Peter Popular,M26,03. Groups - Matchday 3,0,0,10,9.3,0.6999999999999993
-144,Peter Popular,M28,03. Groups - Matchday 3,0,0,10,10.0,0.0
-145,Peter Popular,M30,03. Groups - Matchday 3,0,0,10,10.1,-0.09999999999999964
-146,Peter Popular,M31,03. Groups - Matchday 3,0,0,10,10.2,-0.1999999999999993
-147,Peter Popular,M36,03. Groups - Matchday 3,3,6,16,11.8,4.199999999999999
-148,Peter Popular,M37,04. KO - Round of 16,3,3,19,14.1,4.9
-149,Peter Popular,M38,04. KO - Round of 16,0,0,19,14.3,4.699999999999999
-150,Peter Popular,M39,04. KO - Round of 16,1,1,20,15.7,4.300000000000001
-151,Peter Popular,M40,04. KO - Round of 16,0,0,20,15.7,4.300000000000001
-152,Rando Randal,M01,01. Groups - Matchday 1,1,1,1,1.6,-0.6000000000000001
-153,Rando Randal,M03,01. Groups - Matchday 1,0,0,1,2.2,-1.2000000000000002
-154,Rando Randal,M05,01. Groups - Matchday 1,1,2,3,3.9,-0.8999999999999999
-155,Rando Randal,M08,01. Groups - Matchday 1,0,0,3,4.8,-1.7999999999999998
-156,Rando Randal,M12,01. Groups - Matchday 1,1,1,4,6.2,-2.2
-157,Rando Randal,M13,02. Groups - Matchday 2,0,0,4,6.2,-2.2
-158,Rando Randal,M16,02. Groups - Matchday 2,0,0,4,6.8,-2.8
-159,Rando Randal,M17,02. Groups - Matchday 2,0,0,4,6.9,-2.9000000000000004
-160,Rando Randal,M20,02. Groups - Matchday 2,0,0,4,7.1,-3.0999999999999996
-161,Rando Randal,M22,02. Groups - Matchday 2,0,0,4,8.8,-4.800000000000001
-162,Rando Randal,M26,03. Groups - Matchday 3,1,1,5,9.3,-4.300000000000001
-163,Rando Randal,M28,03. Groups - Matchday 3,0,0,5,10.0,-5.0
-164,Rando Randal,M30,03. Groups - Matchday 3,0,0,5,10.1,-5.1
-165,Rando Randal,M31,03. Groups - Matchday 3,0,0,5,10.2,-5.199999999999999
-166,Rando Randal,M36,03. Groups - Matchday 3,0,0,5,11.8,-6.800000000000001
-167,Rando Randal,M37,04. KO - Round of 16,0,0,5,14.1,-9.1
-168,Rando Randal,M38,04. KO - Round of 16,0,0,5,14.3,-9.3
-169,Rando Randal,M39,04. KO - Round of 16,1,1,6,15.7,-9.7
-170,Rando Randal,M40,04. KO - Round of 16,0,0,6,15.7,-9.7
-171,Tom,M01,01. Groups - Matchday 1,1,1,1,1.6,-0.6000000000000001
-172,Tom,M03,01. Groups - Matchday 1,0,0,1,2.2,-1.2000000000000002
-173,Tom,M05,01. Groups - Matchday 1,1,2,3,3.9,-0.8999999999999999
-174,Tom,M08,01. Groups - Matchday 1,1,1,4,4.8,-0.7999999999999998
-175,Tom,M12,01. Groups - Matchday 1,1,1,5,6.2,-1.2000000000000002
-176,Tom,M13,02. Groups - Matchday 2,0,0,5,6.2,-1.2000000000000002
-177,Tom,M16,02. Groups - Matchday 2,1,1,6,6.8,-0.7999999999999998
-178,Tom,M17,02. Groups - Matchday 2,0,0,6,6.9,-0.9000000000000004
-179,Tom,M20,02. Groups - Matchday 2,0,0,6,7.1,-1.0999999999999996
-180,Tom,M22,02. Groups - Matchday 2,1,1,7,8.8,-1.8000000000000007
-181,Tom,M26,03. Groups - Matchday 3,0,0,7,9.3,-2.3000000000000007
-182,Tom,M28,03. Groups - Matchday 3,3,3,10,10.0,0.0
-183,Tom,M30,03. Groups - Matchday 3,0,0,10,10.1,-0.09999999999999964
-184,Tom,M31,03. Groups - Matchday 3,1,1,11,10.2,0.8000000000000007
-185,Tom,M36,03. Groups - Matchday 3,1,1,12,11.8,0.1999999999999993
-186,Tom,M37,04. KO - Round of 16,3,3,15,14.1,0.9000000000000004
-187,Tom,M38,04. KO - Round of 16,0,0,15,14.3,0.6999999999999993
-188,Tom,M39,04. KO - Round of 16,1,1,16,15.7,0.3000000000000007
-189,Tom,M40,04. KO - Round of 16,0,0,16,15.7,0.3000000000000007
+19,Corfe,M41,04. KO - Round of 16,0,0,17,15.7,1.3000000000000007
+20,Corfe,M42,04. KO - Round of 16,3,3,20,16.8,3.1999999999999993
+21,Ed,M01,01. Groups - Matchday 1,1,1,1,1.6,-0.6000000000000001
+22,Ed,M03,01. Groups - Matchday 1,0,0,1,2.2,-1.2000000000000002
+23,Ed,M05,01. Groups - Matchday 1,1,2,3,3.9,-0.8999999999999999
+24,Ed,M08,01. Groups - Matchday 1,1,1,4,4.8,-0.7999999999999998
+25,Ed,M12,01. Groups - Matchday 1,1,1,5,6.2,-1.2000000000000002
+26,Ed,M13,02. Groups - Matchday 2,0,0,5,6.2,-1.2000000000000002
+27,Ed,M16,02. Groups - Matchday 2,0,0,5,6.8,-1.7999999999999998
+28,Ed,M17,02. Groups - Matchday 2,0,0,5,6.9,-1.9000000000000004
+29,Ed,M20,02. Groups - Matchday 2,0,0,5,7.1,-2.0999999999999996
+30,Ed,M22,02. Groups - Matchday 2,1,1,6,8.8,-2.8000000000000007
+31,Ed,M26,03. Groups - Matchday 3,0,0,6,9.3,-3.3000000000000007
+32,Ed,M28,03. Groups - Matchday 3,0,0,6,10.0,-4.0
+33,Ed,M30,03. Groups - Matchday 3,0,0,6,10.1,-4.1
+34,Ed,M31,03. Groups - Matchday 3,0,0,6,10.2,-4.199999999999999
+35,Ed,M36,03. Groups - Matchday 3,3,3,9,11.8,-2.8000000000000007
+36,Ed,M37,04. KO - Round of 16,3,3,12,14.1,-2.0999999999999996
+37,Ed,M38,04. KO - Round of 16,0,0,12,14.3,-2.3000000000000007
+38,Ed,M39,04. KO - Round of 16,1,2,14,15.7,-1.6999999999999993
+39,Ed,M40,04. KO - Round of 16,0,0,14,15.7,-1.6999999999999993
+40,Ed,M41,04. KO - Round of 16,0,0,14,15.7,-1.6999999999999993
+41,Ed,M42,04. KO - Round of 16,0,0,14,16.8,-2.8000000000000007
+42,Jay,M01,01. Groups - Matchday 1,1,1,1,1.6,-0.6000000000000001
+43,Jay,M03,01. Groups - Matchday 1,0,0,1,2.2,-1.2000000000000002
+44,Jay,M05,01. Groups - Matchday 1,3,3,4,3.9,0.10000000000000009
+45,Jay,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
+46,Jay,M12,01. Groups - Matchday 1,1,2,7,6.2,0.7999999999999998
+47,Jay,M13,02. Groups - Matchday 2,0,0,7,6.2,0.7999999999999998
+48,Jay,M16,02. Groups - Matchday 2,1,1,8,6.8,1.2000000000000002
+49,Jay,M17,02. Groups - Matchday 2,1,1,9,6.9,2.0999999999999996
+50,Jay,M20,02. Groups - Matchday 2,1,1,10,7.1,2.9000000000000004
+51,Jay,M22,02. Groups - Matchday 2,1,1,11,8.8,2.1999999999999993
+52,Jay,M26,03. Groups - Matchday 3,0,0,11,9.3,1.6999999999999993
+53,Jay,M28,03. Groups - Matchday 3,0,0,11,10.0,1.0
+54,Jay,M30,03. Groups - Matchday 3,0,0,11,10.1,0.9000000000000004
+55,Jay,M31,03. Groups - Matchday 3,0,0,11,10.2,0.8000000000000007
+56,Jay,M36,03. Groups - Matchday 3,3,6,17,11.8,5.199999999999999
+57,Jay,M37,04. KO - Round of 16,1,1,18,14.1,3.9000000000000004
+58,Jay,M38,04. KO - Round of 16,1,1,19,14.3,4.699999999999999
+59,Jay,M39,04. KO - Round of 16,1,2,21,15.7,5.300000000000001
+60,Jay,M40,04. KO - Round of 16,0,0,21,15.7,5.300000000000001
+61,Jay,M41,04. KO - Round of 16,0,0,21,15.7,5.300000000000001
+62,Jay,M42,04. KO - Round of 16,1,1,22,16.8,5.199999999999999
+63,Jonny,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
+64,Jonny,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
+65,Jonny,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
+66,Jonny,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
+67,Jonny,M12,01. Groups - Matchday 1,3,3,8,6.2,1.7999999999999998
+68,Jonny,M13,02. Groups - Matchday 2,0,0,8,6.2,1.7999999999999998
+69,Jonny,M16,02. Groups - Matchday 2,1,1,9,6.8,2.2
+70,Jonny,M17,02. Groups - Matchday 2,0,0,9,6.9,2.0999999999999996
+71,Jonny,M20,02. Groups - Matchday 2,0,0,9,7.1,1.9000000000000004
+72,Jonny,M22,02. Groups - Matchday 2,3,6,15,8.8,6.199999999999999
+73,Jonny,M26,03. Groups - Matchday 3,0,0,15,9.3,5.699999999999999
+74,Jonny,M28,03. Groups - Matchday 3,3,3,18,10.0,8.0
+75,Jonny,M30,03. Groups - Matchday 3,0,0,18,10.1,7.9
+76,Jonny,M31,03. Groups - Matchday 3,0,0,18,10.2,7.800000000000001
+77,Jonny,M36,03. Groups - Matchday 3,0,0,18,11.8,6.199999999999999
+78,Jonny,M37,04. KO - Round of 16,3,3,21,14.1,6.9
+79,Jonny,M38,04. KO - Round of 16,0,0,21,14.3,6.699999999999999
+80,Jonny,M39,04. KO - Round of 16,1,2,23,15.7,7.300000000000001
+81,Jonny,M40,04. KO - Round of 16,0,0,23,15.7,7.300000000000001
+82,Jonny,M41,04. KO - Round of 16,0,0,23,15.7,7.300000000000001
+83,Jonny,M42,04. KO - Round of 16,0,0,23,16.8,6.199999999999999
+84,Larry,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
+85,Larry,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
+86,Larry,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
+87,Larry,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
+88,Larry,M12,01. Groups - Matchday 1,3,3,8,6.2,1.7999999999999998
+89,Larry,M13,02. Groups - Matchday 2,0,0,8,6.2,1.7999999999999998
+90,Larry,M16,02. Groups - Matchday 2,1,1,9,6.8,2.2
+91,Larry,M17,02. Groups - Matchday 2,0,0,9,6.9,2.0999999999999996
+92,Larry,M20,02. Groups - Matchday 2,0,0,9,7.1,1.9000000000000004
+93,Larry,M22,02. Groups - Matchday 2,1,1,10,8.8,1.1999999999999993
+94,Larry,M26,03. Groups - Matchday 3,0,0,10,9.3,0.6999999999999993
+95,Larry,M28,03. Groups - Matchday 3,0,0,10,10.0,0.0
+96,Larry,M30,03. Groups - Matchday 3,1,1,11,10.1,0.9000000000000004
+97,Larry,M31,03. Groups - Matchday 3,0,0,11,10.2,0.8000000000000007
+98,Larry,M36,03. Groups - Matchday 3,0,0,11,11.8,-0.8000000000000007
+99,Larry,M37,04. KO - Round of 16,1,2,13,14.1,-1.0999999999999996
+100,Larry,M38,04. KO - Round of 16,1,1,14,14.3,-0.3000000000000007
+101,Larry,M39,04. KO - Round of 16,1,1,15,15.7,-0.6999999999999993
+102,Larry,M40,04. KO - Round of 16,0,0,15,15.7,-0.6999999999999993
+103,Larry,M41,04. KO - Round of 16,0,0,15,15.7,-0.6999999999999993
+104,Larry,M42,04. KO - Round of 16,1,1,16,16.8,-0.8000000000000007
+105,Luke,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
+106,Luke,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
+107,Luke,M05,01. Groups - Matchday 1,3,3,6,3.9,2.1
+108,Luke,M08,01. Groups - Matchday 1,1,1,7,4.8,2.2
+109,Luke,M12,01. Groups - Matchday 1,1,1,8,6.2,1.7999999999999998
+110,Luke,M13,02. Groups - Matchday 2,0,0,8,6.2,1.7999999999999998
+111,Luke,M16,02. Groups - Matchday 2,0,0,8,6.8,1.2000000000000002
+112,Luke,M17,02. Groups - Matchday 2,0,0,8,6.9,1.0999999999999996
+113,Luke,M20,02. Groups - Matchday 2,1,1,9,7.1,1.9000000000000004
+114,Luke,M22,02. Groups - Matchday 2,3,3,12,8.8,3.1999999999999993
+115,Luke,M26,03. Groups - Matchday 3,1,1,13,9.3,3.6999999999999993
+116,Luke,M28,03. Groups - Matchday 3,0,0,13,10.0,3.0
+117,Luke,M30,03. Groups - Matchday 3,0,0,13,10.1,2.9000000000000004
+118,Luke,M31,03. Groups - Matchday 3,0,0,13,10.2,2.8000000000000007
+119,Luke,M36,03. Groups - Matchday 3,0,0,13,11.8,1.1999999999999993
+120,Luke,M37,04. KO - Round of 16,1,1,14,14.1,-0.09999999999999964
+121,Luke,M38,04. KO - Round of 16,0,0,14,14.3,-0.3000000000000007
+122,Luke,M39,04. KO - Round of 16,1,2,16,15.7,0.3000000000000007
+123,Luke,M40,04. KO - Round of 16,0,0,16,15.7,0.3000000000000007
+124,Luke,M41,04. KO - Round of 16,0,0,16,15.7,0.3000000000000007
+125,Luke,M42,04. KO - Round of 16,3,3,19,16.8,2.1999999999999993
+126,Marc,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
+127,Marc,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
+128,Marc,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
+129,Marc,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
+130,Marc,M12,01. Groups - Matchday 1,0,0,5,6.2,-1.2000000000000002
+131,Marc,M13,02. Groups - Matchday 2,0,0,5,6.2,-1.2000000000000002
+132,Marc,M16,02. Groups - Matchday 2,1,1,6,6.8,-0.7999999999999998
+133,Marc,M17,02. Groups - Matchday 2,0,0,6,6.9,-0.9000000000000004
+134,Marc,M20,02. Groups - Matchday 2,0,0,6,7.1,-1.0999999999999996
+135,Marc,M22,02. Groups - Matchday 2,0,0,6,8.8,-2.8000000000000007
+136,Marc,M26,03. Groups - Matchday 3,0,0,6,9.3,-3.3000000000000007
+137,Marc,M28,03. Groups - Matchday 3,1,1,7,10.0,-3.0
+138,Marc,M30,03. Groups - Matchday 3,0,0,7,10.1,-3.0999999999999996
+139,Marc,M31,03. Groups - Matchday 3,0,0,7,10.2,-3.1999999999999993
+140,Marc,M36,03. Groups - Matchday 3,0,0,7,11.8,-4.800000000000001
+141,Marc,M37,04. KO - Round of 16,1,1,8,14.1,-6.1
+142,Marc,M38,04. KO - Round of 16,0,0,8,14.3,-6.300000000000001
+143,Marc,M39,04. KO - Round of 16,1,1,9,15.7,-6.699999999999999
+144,Marc,M40,04. KO - Round of 16,0,0,9,15.7,-6.699999999999999
+145,Marc,M41,04. KO - Round of 16,0,0,9,15.7,-6.699999999999999
+146,Marc,M42,04. KO - Round of 16,1,1,10,16.8,-6.800000000000001
+147,Peter Popular,M01,01. Groups - Matchday 1,1,2,2,1.6,0.3999999999999999
+148,Peter Popular,M03,01. Groups - Matchday 1,1,1,3,2.2,0.7999999999999998
+149,Peter Popular,M05,01. Groups - Matchday 1,1,1,4,3.9,0.10000000000000009
+150,Peter Popular,M08,01. Groups - Matchday 1,1,1,5,4.8,0.20000000000000018
+151,Peter Popular,M12,01. Groups - Matchday 1,1,1,6,6.2,-0.20000000000000018
+152,Peter Popular,M13,02. Groups - Matchday 2,0,0,6,6.2,-0.20000000000000018
+153,Peter Popular,M16,02. Groups - Matchday 2,1,1,7,6.8,0.20000000000000018
+154,Peter Popular,M17,02. Groups - Matchday 2,0,0,7,6.9,0.09999999999999964
+155,Peter Popular,M20,02. Groups - Matchday 2,0,0,7,7.1,-0.09999999999999964
+156,Peter Popular,M22,02. Groups - Matchday 2,3,3,10,8.8,1.1999999999999993
+157,Peter Popular,M26,03. Groups - Matchday 3,0,0,10,9.3,0.6999999999999993
+158,Peter Popular,M28,03. Groups - Matchday 3,0,0,10,10.0,0.0
+159,Peter Popular,M30,03. Groups - Matchday 3,0,0,10,10.1,-0.09999999999999964
+160,Peter Popular,M31,03. Groups - Matchday 3,0,0,10,10.2,-0.1999999999999993
+161,Peter Popular,M36,03. Groups - Matchday 3,3,6,16,11.8,4.199999999999999
+162,Peter Popular,M37,04. KO - Round of 16,3,3,19,14.1,4.9
+163,Peter Popular,M38,04. KO - Round of 16,0,0,19,14.3,4.699999999999999
+164,Peter Popular,M39,04. KO - Round of 16,1,1,20,15.7,4.300000000000001
+165,Peter Popular,M40,04. KO - Round of 16,0,0,20,15.7,4.300000000000001
+166,Peter Popular,M41,04. KO - Round of 16,0,0,20,15.7,4.300000000000001
+167,Peter Popular,M42,04. KO - Round of 16,1,1,21,16.8,4.199999999999999
+168,Rando Randal,M01,01. Groups - Matchday 1,1,1,1,1.6,-0.6000000000000001
+169,Rando Randal,M03,01. Groups - Matchday 1,0,0,1,2.2,-1.2000000000000002
+170,Rando Randal,M05,01. Groups - Matchday 1,1,2,3,3.9,-0.8999999999999999
+171,Rando Randal,M08,01. Groups - Matchday 1,0,0,3,4.8,-1.7999999999999998
+172,Rando Randal,M12,01. Groups - Matchday 1,1,1,4,6.2,-2.2
+173,Rando Randal,M13,02. Groups - Matchday 2,0,0,4,6.2,-2.2
+174,Rando Randal,M16,02. Groups - Matchday 2,0,0,4,6.8,-2.8
+175,Rando Randal,M17,02. Groups - Matchday 2,0,0,4,6.9,-2.9000000000000004
+176,Rando Randal,M20,02. Groups - Matchday 2,0,0,4,7.1,-3.0999999999999996
+177,Rando Randal,M22,02. Groups - Matchday 2,0,0,4,8.8,-4.800000000000001
+178,Rando Randal,M26,03. Groups - Matchday 3,1,1,5,9.3,-4.300000000000001
+179,Rando Randal,M28,03. Groups - Matchday 3,0,0,5,10.0,-5.0
+180,Rando Randal,M30,03. Groups - Matchday 3,0,0,5,10.1,-5.1
+181,Rando Randal,M31,03. Groups - Matchday 3,0,0,5,10.2,-5.199999999999999
+182,Rando Randal,M36,03. Groups - Matchday 3,0,0,5,11.8,-6.800000000000001
+183,Rando Randal,M37,04. KO - Round of 16,0,0,5,14.1,-9.1
+184,Rando Randal,M38,04. KO - Round of 16,0,0,5,14.3,-9.3
+185,Rando Randal,M39,04. KO - Round of 16,1,1,6,15.7,-9.7
+186,Rando Randal,M40,04. KO - Round of 16,0,0,6,15.7,-9.7
+187,Rando Randal,M41,04. KO - Round of 16,0,0,6,15.7,-9.7
+188,Rando Randal,M42,04. KO - Round of 16,1,1,7,16.8,-9.8
+189,Tom,M01,01. Groups - Matchday 1,1,1,1,1.6,-0.6000000000000001
+190,Tom,M03,01. Groups - Matchday 1,0,0,1,2.2,-1.2000000000000002
+191,Tom,M05,01. Groups - Matchday 1,1,2,3,3.9,-0.8999999999999999
+192,Tom,M08,01. Groups - Matchday 1,1,1,4,4.8,-0.7999999999999998
+193,Tom,M12,01. Groups - Matchday 1,1,1,5,6.2,-1.2000000000000002
+194,Tom,M13,02. Groups - Matchday 2,0,0,5,6.2,-1.2000000000000002
+195,Tom,M16,02. Groups - Matchday 2,1,1,6,6.8,-0.7999999999999998
+196,Tom,M17,02. Groups - Matchday 2,0,0,6,6.9,-0.9000000000000004
+197,Tom,M20,02. Groups - Matchday 2,0,0,6,7.1,-1.0999999999999996
+198,Tom,M22,02. Groups - Matchday 2,1,1,7,8.8,-1.8000000000000007
+199,Tom,M26,03. Groups - Matchday 3,0,0,7,9.3,-2.3000000000000007
+200,Tom,M28,03. Groups - Matchday 3,3,3,10,10.0,0.0
+201,Tom,M30,03. Groups - Matchday 3,0,0,10,10.1,-0.09999999999999964
+202,Tom,M31,03. Groups - Matchday 3,1,1,11,10.2,0.8000000000000007
+203,Tom,M36,03. Groups - Matchday 3,1,1,12,11.8,0.1999999999999993
+204,Tom,M37,04. KO - Round of 16,3,3,15,14.1,0.9000000000000004
+205,Tom,M38,04. KO - Round of 16,0,0,15,14.3,0.6999999999999993
+206,Tom,M39,04. KO - Round of 16,1,1,16,15.7,0.3000000000000007
+207,Tom,M40,04. KO - Round of 16,0,0,16,15.7,0.3000000000000007
+208,Tom,M41,04. KO - Round of 16,0,0,16,15.7,0.3000000000000007
+209,Tom,M42,04. KO - Round of 16,0,0,16,16.8,-0.8000000000000007
