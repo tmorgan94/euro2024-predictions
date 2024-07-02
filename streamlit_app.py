@@ -27,6 +27,8 @@ country_flags = {
     "Slovenia": "🇸🇮",
     "Ukraine": "🇺🇦",
     "Turkey": "🇹🇷",
+    "Georgia": "🇬🇪",
+    "Slovakia": "🇸🇰"
 
 }
 
