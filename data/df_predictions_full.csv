@@ -229,3 +229,43 @@ timestamp,name,match_code,home,away,predicted_score,points_multiplier,actual_sco
 29/06/2024 16:12:34,Jay,M44,Austria,Turkey,2-0,1,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
 29/06/2024 16:12:34,Peter Popular,M44,Austria,Turkey,2-1,1,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
 29/06/2024 16:12:34,Rando Randal,M44,Austria,Turkey,4-2,1,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
+03/07/2024 20:42:11,Ed,M45,Spain,Germany,2-2,1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+03/07/2024 22:54:13,Tom,M45,Spain,Germany,1-1,1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+04/07/2024 05:45:02,Marc,M45,Spain,Germany,1-2,1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+04/07/2024 13:08:07,Jonny,M45,Spain,Germany,1-1,1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+04/07/2024 14:36:00,Larry,M45,Spain,Germany,2-0,1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+05/07/2024 12:30:18,Corfe,M45,Spain,Germany,2-1,1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+05/07/2024 12:58:29,Jay,M45,Spain,Germany,3-1,1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+05/07/2024 18:45:09,Luke,M45,Spain,Germany,1-0,1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+05/07/2024 12:58:29,Rando Randal,M45,Spain,Germany,2-1,2,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+05/07/2024 12:58:29,Peter Popular,M45,Spain,Germany,2-1,2,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+03/07/2024 20:42:11,Ed,M46,Portugal,France,0-1,1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+03/07/2024 22:54:13,Tom,M46,Portugal,France,0-1,2,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+04/07/2024 05:45:02,Marc,M46,Portugal,France,1-0,1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+04/07/2024 13:08:07,Jonny,M46,Portugal,France,0-2,1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+04/07/2024 14:36:00,Larry,M46,Portugal,France,1-2,1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+05/07/2024 12:30:18,Corfe,M46,Portugal,France,0-1,1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+05/07/2024 12:58:29,Jay,M46,Portugal,France,1-1,2,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+05/07/2024 18:45:09,Luke,M46,Portugal,France,0-1,1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+05/07/2024 12:58:29,Rando Randal,M46,Portugal,France,0-1,1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+05/07/2024 12:58:29,Peter Popular,M46,Portugal,France,1-2,1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+03/07/2024 20:42:11,Ed,M47,Netherlands,Turkey,2-1,2,,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+03/07/2024 22:54:13,Tom,M47,Netherlands,Turkey,1-1,1,,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+04/07/2024 05:45:02,Marc,M47,Netherlands,Turkey,2-1,2,,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+04/07/2024 13:08:07,Jonny,M47,Netherlands,Turkey,2-0,2,,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+04/07/2024 14:36:00,Larry,M47,Netherlands,Turkey,2-0,1,,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+05/07/2024 12:30:18,Corfe,M47,Netherlands,Turkey,2-0,2,,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+05/07/2024 12:58:29,Jay,M47,Netherlands,Turkey,2-0,1,,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+05/07/2024 18:45:09,Luke,M47,Netherlands,Turkey,2-0,2,,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+05/07/2024 12:58:29,Rando Randal,M47,Netherlands,Turkey,0-5,1,,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+05/07/2024 12:58:29,Peter Popular,M47,Netherlands,Turkey,2-1,1,,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+03/07/2024 20:42:11,Ed,M48,England,Switzerland,1-0,1,,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+03/07/2024 22:54:13,Tom,M48,England,Switzerland,1-2,1,,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+04/07/2024 05:45:02,Marc,M48,England,Switzerland,1-1,1,,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+04/07/2024 13:08:07,Jonny,M48,England,Switzerland,1-1,1,,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+04/07/2024 14:36:00,Larry,M48,England,Switzerland,2-0,2,,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+05/07/2024 12:30:18,Corfe,M48,England,Switzerland,1-0,1,,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+05/07/2024 12:58:29,Jay,M48,England,Switzerland,1-0,1,,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+05/07/2024 18:45:09,Luke,M48,England,Switzerland,1-0,1,,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+05/07/2024 12:58:29,Rando Randal,M48,England,Switzerland,3-2,1,,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+05/07/2024 12:58:29,Peter Popular,M48,England,Switzerland,2-1,1,,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00

@@ -231,6 +231,7 @@ st.markdown("""
             """)
 
 colors_names = {
+    "Alfie": "#77ed97",
     "Corfe": "#FFA500",
     "Ed": "#e4010b",
     "Jay": "#004ea0",
