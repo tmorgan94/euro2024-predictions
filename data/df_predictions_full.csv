@@ -1,291 +1,291 @@
-timestamp,name,match_code,home,away,predicted_score,actual_score,matchday,stage,stage_detail,match_time
-07/06/2024 19:59:48,Larry,M01,Germany,Scotland,2-0,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
-07/06/2024 20:04:57,Tom,M01,Germany,Scotland,2-0,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
-08/06/2024 23:31:40,Ed,M01,Germany,Scotland,3-1,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
-09/06/2024 10:35:29,Jonny,M01,Germany,Scotland,3-0,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
-11/06/2024 11:43:49,Jay,M01,Germany,Scotland,2-0,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
-13/06/2024 13:32:21,Marc,M01,Germany,Scotland,3-1,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
-14/06/2024 13:38:34,Corfe,M01,Germany,Scotland,2-0,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
-14/06/2024 19:11:16,Luke,M01,Germany,Scotland,2-0,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
-27/05/2024 20:29:29,Rando Randal,M01,Germany,Scotland,1-0,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
-27/05/2024 20:29:29,Peter Popular,M01,Germany,Scotland,2-0,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
-07/06/2024 19:59:48,Larry,M03,Spain,Croatia,2-0,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
-07/06/2024 20:04:57,Tom,M03,Spain,Croatia,0-0,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
-08/06/2024 23:31:40,Ed,M03,Spain,Croatia,1-1,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
-09/06/2024 10:35:29,Jonny,M03,Spain,Croatia,2-1,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
-11/06/2024 11:43:49,Jay,M03,Spain,Croatia,1-1,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
-13/06/2024 13:32:21,Marc,M03,Spain,Croatia,2-0,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
-14/06/2024 13:38:34,Corfe,M03,Spain,Croatia,2-1,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
-14/06/2024 19:11:16,Luke,M03,Spain,Croatia,1-0,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
-27/05/2024 20:29:29,Rando Randal,M03,Spain,Croatia,1-1,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
-27/05/2024 20:29:29,Peter Popular,M03,Spain,Croatia,2-1,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
-07/06/2024 19:59:48,Larry,M05,Serbia,England,0-2,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
-07/06/2024 20:04:57,Tom,M05,Serbia,England,0-2,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
-08/06/2024 23:31:40,Ed,M05,Serbia,England,1-2,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
-09/06/2024 10:35:29,Jonny,M05,Serbia,England,0-2,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
-11/06/2024 11:43:49,Jay,M05,Serbia,England,0-1,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
-13/06/2024 13:32:21,Marc,M05,Serbia,England,1-4,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
-14/06/2024 13:38:34,Corfe,M05,Serbia,England,0-2,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
-14/06/2024 19:11:16,Luke,M05,Serbia,England,0-1,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
-27/05/2024 20:29:29,Rando Randal,M05,Serbia,England,2-4,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
-27/05/2024 20:29:29,Peter Popular,M05,Serbia,England,0-3,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
-07/06/2024 19:59:48,Larry,M08,Austria,France,0-2,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
-07/06/2024 20:04:57,Tom,M08,Austria,France,1-2,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
-08/06/2024 23:31:40,Ed,M08,Austria,France,1-4,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
-09/06/2024 10:35:29,Jonny,M08,Austria,France,0-3,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
-11/06/2024 11:43:49,Jay,M08,Austria,France,1-3,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
-13/06/2024 13:32:21,Marc,M08,Austria,France,0-3,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
-14/06/2024 13:38:34,Corfe,M08,Austria,France,1-3,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
-14/06/2024 19:11:16,Luke,M08,Austria,France,0-2,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
-27/05/2024 20:29:29,Rando Randal,M08,Austria,France,3-2,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
-27/05/2024 20:29:29,Peter Popular,M08,Austria,France,0-3,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
-07/06/2024 19:59:48,Larry,M12,Portugal,Czech Republic,2-1,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
-07/06/2024 20:04:57,Tom,M12,Portugal,Czech Republic,3-1,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
-08/06/2024 23:31:40,Ed,M12,Portugal,Czech Republic,2-0,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
-09/06/2024 10:35:29,Jonny,M12,Portugal,Czech Republic,2-1,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
-11/06/2024 11:43:49,Jay,M12,Portugal,Czech Republic,2-0,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
-13/06/2024 13:32:21,Marc,M12,Portugal,Czech Republic,1-1,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
-14/06/2024 13:38:34,Corfe,M12,Portugal,Czech Republic,3-0,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
-14/06/2024 19:11:16,Luke,M12,Portugal,Czech Republic,1-0,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
-27/05/2024 20:29:29,Rando Randal,M12,Portugal,Czech Republic,5-3,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
-27/05/2024 20:29:29,Peter Popular,M12,Portugal,Czech Republic,2-0,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
-15/06/2024 19:43:14,Tom,M13,Scotland,Switzerland,1-3,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
-15/06/2024 19:50:30,Jonny,M13,Scotland,Switzerland,1-3,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
-17/06/2024 20:31:11,Larry,M13,Scotland,Switzerland,0-3,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
-18/06/2024 22:03:06,Jay,M13,Scotland,Switzerland,0-3,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
-19/06/2024 05:08:55,Marc,M13,Scotland,Switzerland,2-1,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
-19/06/2024 10:33:25,Luke,M13,Scotland,Switzerland,0-1,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
-19/06/2024 11:04:58,Ed,M13,Scotland,Switzerland,1-2,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
-19/06/2024 12:58:03,Corfe,M13,Scotland,Switzerland,0-1,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
-19/06/2024 20:40:28,Peter Popular,M13,Scotland,Switzerland,1-2,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
-19/06/2024 20:45:30,Rando Randal,M13,Scotland,Switzerland,4-1,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
-15/06/2024 19:43:14,Tom,M16,Spain,Italy,2-1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
-15/06/2024 19:50:30,Jonny,M16,Spain,Italy,2-1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
-17/06/2024 20:31:11,Larry,M16,Spain,Italy,2-0,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
-18/06/2024 22:03:06,Jay,M16,Spain,Italy,2-1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
-19/06/2024 05:08:55,Marc,M16,Spain,Italy,2-0,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
-19/06/2024 10:33:25,Luke,M16,Spain,Italy,1-1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
-19/06/2024 11:04:58,Ed,M16,Spain,Italy,1-1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
-19/06/2024 12:58:03,Corfe,M16,Spain,Italy,1-1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
-19/06/2024 20:40:28,Peter Popular,M16,Spain,Italy,2-1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
-19/06/2024 20:45:30,Rando Randal,M16,Spain,Italy,3-5,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
-15/06/2024 19:43:14,Tom,M17,Denmark,England,0-1,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
-15/06/2024 19:50:30,Jonny,M17,Denmark,England,1-3,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
-17/06/2024 20:31:11,Larry,M17,Denmark,England,0-2,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
-18/06/2024 22:03:06,Jay,M17,Denmark,England,0-0,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
-19/06/2024 05:08:55,Marc,M17,Denmark,England,1-3,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
-19/06/2024 10:33:25,Luke,M17,Denmark,England,0-1,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
-19/06/2024 11:04:58,Ed,M17,Denmark,England,1-2,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
-19/06/2024 12:58:03,Corfe,M17,Denmark,England,0-2,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
-19/06/2024 20:40:28,Peter Popular,M17,Denmark,England,1-2,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
-19/06/2024 20:45:30,Rando Randal,M17,Denmark,England,2-5,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
-15/06/2024 19:43:14,Tom,M20,Netherlands,France,1-2,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-15/06/2024 19:50:30,Jonny,M20,Netherlands,France,1-2,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-17/06/2024 20:31:11,Larry,M20,Netherlands,France,2-3,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-18/06/2024 22:03:06,Jay,M20,Netherlands,France,2-2,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-19/06/2024 05:08:55,Marc,M20,Netherlands,France,0-2,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-19/06/2024 10:33:25,Luke,M20,Netherlands,France,1-1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-19/06/2024 11:04:58,Ed,M20,Netherlands,France,1-2,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-19/06/2024 12:58:03,Corfe,M20,Netherlands,France,0-1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-19/06/2024 20:40:28,Peter Popular,M20,Netherlands,France,1-2,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-19/06/2024 20:45:30,Rando Randal,M20,Netherlands,France,3-2,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
-15/06/2024 19:43:14,Tom,M22,Belgium,Romania,3-0,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
-15/06/2024 19:50:30,Jonny,M22,Belgium,Romania,2-0,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
-17/06/2024 20:31:11,Larry,M22,Belgium,Romania,3-0,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
-18/06/2024 22:03:06,Jay,M22,Belgium,Romania,2-1,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
-19/06/2024 05:08:55,Marc,M22,Belgium,Romania,2-2,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
-19/06/2024 10:33:25,Luke,M22,Belgium,Romania,2-0,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
-19/06/2024 11:04:58,Ed,M22,Belgium,Romania,2-1,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
-19/06/2024 12:58:03,Corfe,M22,Belgium,Romania,2-1,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
-19/06/2024 20:40:28,Peter Popular,M22,Belgium,Romania,2-0,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
-19/06/2024 20:45:30,Rando Randal,M22,Belgium,Romania,0-2,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
-21/06/2024 22:20:57,Tom,M26,Scotland,Hungary,1-1,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
-22/06/2024 05:54:55,Marc,M26,Scotland,Hungary,1-0,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
-22/06/2024 22:06:56,Jonny,M26,Scotland,Hungary,1-1,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
-22/06/2024 22:26:43,Ed,M26,Scotland,Hungary,2-2,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
-23/06/2024 11:38:56,Jay,M26,Scotland,Hungary,1-1,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
-23/06/2024 12:57:08,Larry,M26,Scotland,Hungary,1-1,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
-23/06/2024 15:58:50,Corfe,M26,Scotland,Hungary,0-1,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
-23/06/2024 19:00:30,Luke,M26,Scotland,Hungary,1-2,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
-21/06/2024 22:20:57,Peter Popular,M26,Scotland,Hungary,1-1,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
-21/06/2024 22:20:57,Rando Randal,M26,Scotland,Hungary,4-5,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
-21/06/2024 22:20:57,Tom,M28,Croatia,Italy,1-1,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
-22/06/2024 05:54:55,Marc,M28,Croatia,Italy,2-2,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
-22/06/2024 22:06:56,Jonny,M28,Croatia,Italy,1-1,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
-22/06/2024 22:26:43,Ed,M28,Croatia,Italy,1-2,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
-23/06/2024 11:38:56,Jay,M28,Croatia,Italy,1-2,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
-23/06/2024 12:57:08,Larry,M28,Croatia,Italy,2-1,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
-23/06/2024 15:58:50,Corfe,M28,Croatia,Italy,0-2,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
-23/06/2024 19:00:30,Luke,M28,Croatia,Italy,0-1,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
-21/06/2024 22:20:57,Peter Popular,M28,Croatia,Italy,1-2,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
-21/06/2024 22:20:57,Rando Randal,M28,Croatia,Italy,0-4,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
-21/06/2024 22:20:57,Tom,M30,Denmark,Serbia,1-0,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
-22/06/2024 05:54:55,Marc,M30,Denmark,Serbia,3-0,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
-22/06/2024 22:06:56,Jonny,M30,Denmark,Serbia,2-1,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
-22/06/2024 22:26:43,Ed,M30,Denmark,Serbia,3-1,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
-23/06/2024 11:38:56,Jay,M30,Denmark,Serbia,2-1,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
-23/06/2024 12:57:08,Larry,M30,Denmark,Serbia,1-1,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
-23/06/2024 15:58:50,Corfe,M30,Denmark,Serbia,2-0,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
-23/06/2024 19:00:30,Luke,M30,Denmark,Serbia,2-1,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
-21/06/2024 22:20:57,Peter Popular,M30,Denmark,Serbia,2-1,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
-21/06/2024 22:20:57,Rando Randal,M30,Denmark,Serbia,4-5,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
-21/06/2024 22:20:57,Tom,M31,Netherlands,Austria,1-2,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
-22/06/2024 05:54:55,Marc,M31,Netherlands,Austria,2-0,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
-22/06/2024 22:06:56,Jonny,M31,Netherlands,Austria,2-0,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
-22/06/2024 22:26:43,Ed,M31,Netherlands,Austria,2-0,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
-23/06/2024 11:38:56,Jay,M31,Netherlands,Austria,2-2,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
-23/06/2024 12:57:08,Larry,M31,Netherlands,Austria,2-1,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
-23/06/2024 15:58:50,Corfe,M31,Netherlands,Austria,2-1,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
-23/06/2024 19:00:30,Luke,M31,Netherlands,Austria,1-0,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
-21/06/2024 22:20:57,Peter Popular,M31,Netherlands,Austria,2-0,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
-21/06/2024 22:20:57,Rando Randal,M31,Netherlands,Austria,3-0,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
-21/06/2024 22:20:57,Tom,M36,Czech Republic,Turkey,0-1,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
-22/06/2024 05:54:55,Marc,M36,Czech Republic,Turkey,1-1,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
-22/06/2024 22:06:56,Jonny,M36,Czech Republic,Turkey,1-0,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
-22/06/2024 22:26:43,Ed,M36,Czech Republic,Turkey,1-2,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
-23/06/2024 11:38:56,Jay,M36,Czech Republic,Turkey,1-2,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
-23/06/2024 12:57:08,Larry,M36,Czech Republic,Turkey,2-1,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
-23/06/2024 15:58:50,Corfe,M36,Czech Republic,Turkey,1-1,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
-23/06/2024 19:00:30,Luke,M36,Czech Republic,Turkey,2-1,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
-21/06/2024 22:20:57,Peter Popular,M36,Czech Republic,Turkey,1-2,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
-21/06/2024 22:20:57,Rando Randal,M36,Czech Republic,Turkey,5-3,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
-27/06/2024 08:47:23,Marc,M37,Germany,Denmark,2-1,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
-28/06/2024 09:15:29,Tom,M37,Germany,Denmark,2-0,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
-28/06/2024 09:27:41,Jonny,M37,Germany,Denmark,2-0,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
-28/06/2024 11:25:22,Larry,M37,Germany,Denmark,2-1,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
-28/06/2024 16:12:11,Ed,M37,Germany,Denmark,2-0,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
-29/06/2024 07:46:10,Luke,M37,Germany,Denmark,1-0,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
-29/06/2024 15:54:09,Corfe,M37,Germany,Denmark,2-0,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
-29/06/2024 16:12:34,Jay,M37,Germany,Denmark,2-1,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
-29/06/2024 16:12:34,Peter Popular,M37,Germany,Denmark,2-0,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
-29/06/2024 16:12:34,Rando Randal,M37,Germany,Denmark,3-4,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
-27/06/2024 08:47:23,Marc,M38,Switzerland,Italy,1-1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
-28/06/2024 09:15:29,Tom,M38,Switzerland,Italy,1-1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
-28/06/2024 09:27:41,Jonny,M38,Switzerland,Italy,1-1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
-28/06/2024 11:25:22,Larry,M38,Switzerland,Italy,2-1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
-28/06/2024 16:12:11,Ed,M38,Switzerland,Italy,0-1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
-29/06/2024 07:46:10,Luke,M38,Switzerland,Italy,0-1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
-29/06/2024 15:54:09,Corfe,M38,Switzerland,Italy,0-1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
-29/06/2024 16:12:34,Jay,M38,Switzerland,Italy,2-1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
-29/06/2024 16:12:34,Peter Popular,M38,Switzerland,Italy,1-2,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
-29/06/2024 16:12:34,Rando Randal,M38,Switzerland,Italy,0-4,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
-27/06/2024 08:47:23,Marc,M39,Spain,Georgia,3-0,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
-28/06/2024 09:15:29,Tom,M39,Spain,Georgia,2-0,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
-28/06/2024 09:27:41,Jonny,M39,Spain,Georgia,3-0,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
-28/06/2024 11:25:22,Larry,M39,Spain,Georgia,3-0,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
-28/06/2024 16:12:11,Ed,M39,Spain,Georgia,3-1,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
-29/06/2024 07:46:10,Luke,M39,Spain,Georgia,2-0,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
-29/06/2024 15:54:09,Corfe,M39,Spain,Georgia,2-0,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
-29/06/2024 16:12:34,Jay,M39,Spain,Georgia,3-1,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
-29/06/2024 16:12:34,Peter Popular,M39,Spain,Georgia,3-0,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
-29/06/2024 16:12:34,Rando Randal,M39,Spain,Georgia,5-2,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
-27/06/2024 08:47:23,Marc,M40,England,Slovakia,1-0,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
-28/06/2024 09:15:29,Tom,M40,England,Slovakia,1-0,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
-28/06/2024 09:27:41,Jonny,M40,England,Slovakia,2-0,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
-28/06/2024 11:25:22,Larry,M40,England,Slovakia,2-0,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
-28/06/2024 16:12:11,Ed,M40,England,Slovakia,1-0,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
-29/06/2024 07:46:10,Luke,M40,England,Slovakia,1-0,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
-29/06/2024 15:54:09,Corfe,M40,England,Slovakia,2-0,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
-29/06/2024 16:12:34,Jay,M40,England,Slovakia,1-0,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
-29/06/2024 16:12:34,Peter Popular,M40,England,Slovakia,1-0,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
-29/06/2024 16:12:34,Rando Randal,M40,England,Slovakia,3-2,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
-27/06/2024 08:47:23,Marc,M41,Portugal,Slovenia,2-1,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
-28/06/2024 09:15:29,Tom,M41,Portugal,Slovenia,2-1,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
-28/06/2024 09:27:41,Jonny,M41,Portugal,Slovenia,2-0,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
-28/06/2024 11:25:22,Larry,M41,Portugal,Slovenia,2-0,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
-28/06/2024 16:12:11,Ed,M41,Portugal,Slovenia,2-1,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
-29/06/2024 07:46:10,Luke,M41,Portugal,Slovenia,2-0,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
-29/06/2024 15:54:09,Corfe,M41,Portugal,Slovenia,2-0,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
-29/06/2024 16:12:34,Jay,M41,Portugal,Slovenia,3-0,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
-29/06/2024 16:12:34,Peter Popular,M41,Portugal,Slovenia,2-0,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
-29/06/2024 16:12:34,Rando Randal,M41,Portugal,Slovenia,3-5,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
-27/06/2024 08:47:23,Marc,M42,France,Belgium,2-1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
-28/06/2024 09:15:29,Tom,M42,France,Belgium,1-1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
-28/06/2024 09:27:41,Jonny,M42,France,Belgium,1-1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
-28/06/2024 11:25:22,Larry,M42,France,Belgium,3-0,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
-28/06/2024 16:12:11,Ed,M42,France,Belgium,1-1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
-29/06/2024 07:46:10,Luke,M42,France,Belgium,1-0,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
-29/06/2024 15:54:09,Corfe,M42,France,Belgium,1-0,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
-29/06/2024 16:12:34,Jay,M42,France,Belgium,2-1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
-29/06/2024 16:12:34,Peter Popular,M42,France,Belgium,2-1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
-29/06/2024 16:12:34,Rando Randal,M42,France,Belgium,2-1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
-27/06/2024 08:47:23,Marc,M43,Romania,Netherlands,1-1,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
-28/06/2024 09:15:29,Tom,M43,Romania,Netherlands,2-1,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
-28/06/2024 09:27:41,Jonny,M43,Romania,Netherlands,0-2,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
-28/06/2024 11:25:22,Larry,M43,Romania,Netherlands,2-0,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
-28/06/2024 16:12:11,Ed,M43,Romania,Netherlands,2-2,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
-29/06/2024 07:46:10,Luke,M43,Romania,Netherlands,0-1,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
-29/06/2024 15:54:09,Corfe,M43,Romania,Netherlands,1-2,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
-29/06/2024 16:12:34,Jay,M43,Romania,Netherlands,1-1,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
-29/06/2024 16:12:34,Peter Popular,M43,Romania,Netherlands,1-2,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
-29/06/2024 16:12:34,Rando Randal,M43,Romania,Netherlands,3-3,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
-27/06/2024 08:47:23,Marc,M44,Austria,Turkey,3-0,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
-28/06/2024 09:15:29,Tom,M44,Austria,Turkey,3-2,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
-28/06/2024 09:27:41,Jonny,M44,Austria,Turkey,2-2,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
-28/06/2024 11:25:22,Larry,M44,Austria,Turkey,3-1,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
-28/06/2024 16:12:11,Ed,M44,Austria,Turkey,2-0,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
-29/06/2024 07:46:10,Luke,M44,Austria,Turkey,1-0,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
-29/06/2024 15:54:09,Corfe,M44,Austria,Turkey,1-1,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
-29/06/2024 16:12:34,Jay,M44,Austria,Turkey,2-0,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
-29/06/2024 16:12:34,Peter Popular,M44,Austria,Turkey,2-1,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
-29/06/2024 16:12:34,Rando Randal,M44,Austria,Turkey,4-2,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
-03/07/2024 20:42:11,Ed,M45,Spain,Germany,2-2,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
-03/07/2024 22:54:13,Tom,M45,Spain,Germany,1-1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
-04/07/2024 05:45:02,Marc,M45,Spain,Germany,1-2,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
-04/07/2024 13:08:07,Jonny,M45,Spain,Germany,1-1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
-04/07/2024 14:36:00,Larry,M45,Spain,Germany,2-0,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
-05/07/2024 12:30:18,Corfe,M45,Spain,Germany,2-1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
-05/07/2024 12:58:29,Jay,M45,Spain,Germany,3-1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
-05/07/2024 18:45:09,Luke,M45,Spain,Germany,1-1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
-05/07/2024 12:58:29,Rando Randal,M45,Spain,Germany,2-1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
-05/07/2024 12:58:29,Peter Popular,M45,Spain,Germany,2-1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
-03/07/2024 20:42:11,Ed,M46,Portugal,France,0-1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
-03/07/2024 22:54:13,Tom,M46,Portugal,France,0-1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
-04/07/2024 05:45:02,Marc,M46,Portugal,France,1-0,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
-04/07/2024 13:08:07,Jonny,M46,Portugal,France,0-2,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
-04/07/2024 14:36:00,Larry,M46,Portugal,France,1-2,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
-05/07/2024 12:30:18,Corfe,M46,Portugal,France,0-1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
-05/07/2024 12:58:29,Jay,M46,Portugal,France,1-1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
-05/07/2024 18:45:09,Luke,M46,Portugal,France,0-1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
-05/07/2024 12:58:29,Rando Randal,M46,Portugal,France,0-1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
-05/07/2024 12:58:29,Peter Popular,M46,Portugal,France,1-2,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
-03/07/2024 20:42:11,Ed,M47,Netherlands,Turkey,2-1,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
-03/07/2024 22:54:13,Tom,M47,Netherlands,Turkey,1-1,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
-04/07/2024 05:45:02,Marc,M47,Netherlands,Turkey,2-1,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
-04/07/2024 13:08:07,Jonny,M47,Netherlands,Turkey,2-0,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
-04/07/2024 14:36:00,Larry,M47,Netherlands,Turkey,2-0,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
-05/07/2024 12:30:18,Corfe,M47,Netherlands,Turkey,2-0,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
-05/07/2024 12:58:29,Jay,M47,Netherlands,Turkey,2-0,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
-05/07/2024 18:45:09,Luke,M47,Netherlands,Turkey,2-0,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
-05/07/2024 12:58:29,Rando Randal,M47,Netherlands,Turkey,0-5,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
-05/07/2024 12:58:29,Peter Popular,M47,Netherlands,Turkey,2-1,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
-03/07/2024 20:42:11,Ed,M48,England,Switzerland,1-0,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
-03/07/2024 22:54:13,Tom,M48,England,Switzerland,1-2,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
-04/07/2024 05:45:02,Marc,M48,England,Switzerland,1-1,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
-04/07/2024 13:08:07,Jonny,M48,England,Switzerland,1-1,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
-04/07/2024 14:36:00,Larry,M48,England,Switzerland,2-0,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
-05/07/2024 12:30:18,Corfe,M48,England,Switzerland,1-0,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
-05/07/2024 12:58:29,Jay,M48,England,Switzerland,1-0,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
-05/07/2024 18:45:09,Luke,M48,England,Switzerland,1-0,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
-05/07/2024 12:58:29,Rando Randal,M48,England,Switzerland,3-2,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
-05/07/2024 12:58:29,Peter Popular,M48,England,Switzerland,2-1,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
-07/07/2024 09:48,Jay,M49,Spain,France,2-0,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
-07/07/2024 09:56,Larry,M49,Spain,France,2-1,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
-07/07/2024 10:03,Marc,M49,Spain,France,2-0,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
-07/07/2024 10:29,Ed,M49,Spain,France,1-1,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
-08/07/2024 14:46,Corfe,M49,Spain,France,1-0,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
-09/07/2024 15:36,Jonny,M49,Spain,France,1-0,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
-09/07/2024 16:41,Tom,M49,Spain,France,1-2,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
-09/07/2024 19:23,Luke,M49,Spain,France,1-1,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
-09/07/2024 16:41,Peter Popular,M49,Spain,France,2-1,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
-09/07/2024 16:41,Rando Randal,M49,Spain,France,5-0,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
-07/07/2024 09:48,Jay,M50,Netherlands,England,1-1,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
-07/07/2024 09:56,Larry,M50,Netherlands,England,1-2,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
-07/07/2024 10:03,Marc,M50,Netherlands,England,2-2,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
-07/07/2024 10:29,Ed,M50,Netherlands,England,2-1,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
-08/07/2024 14:46,Corfe,M50,Netherlands,England,0-1,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
-09/07/2024 15:36,Jonny,M50,Netherlands,England,1-1,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
-09/07/2024 16:41,Tom,M50,Netherlands,England,1-1,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
-09/07/2024 19:23,Luke,M50,Netherlands,England,1-1,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
-09/07/2024 16:41,Peter Popular,M50,Netherlands,England,1-1,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
-09/07/2024 16:41,Rando Randal,M50,Netherlands,England,3-4,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
+timestamp,name,match_code,home,away,predicted_score,points_multiplier,actual_score,matchday,stage,stage_detail,match_time
+07/06/2024 19:59:48,Larry,M01,Germany,Scotland,2-0,2,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
+07/06/2024 20:04:57,Tom,M01,Germany,Scotland,2-0,1,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
+08/06/2024 23:31:40,Ed,M01,Germany,Scotland,3-1,1,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
+09/06/2024 10:35:29,Jonny,M01,Germany,Scotland,3-0,2,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
+11/06/2024 11:43:49,Jay,M01,Germany,Scotland,2-0,1,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
+13/06/2024 13:32:21,Marc,M01,Germany,Scotland,3-1,2,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
+14/06/2024 13:38:34,Corfe,M01,Germany,Scotland,2-0,2,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
+14/06/2024 19:11:16,Luke,M01,Germany,Scotland,2-0,2,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
+27/05/2024 20:29:29,Rando Randal,M01,Germany,Scotland,1-0,1,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
+27/05/2024 20:29:29,Peter Popular,M01,Germany,Scotland,2-0,2,5-1,1,Groups,01. Groups - Matchday 1,14/06/2024 20:00:00
+07/06/2024 19:59:48,Larry,M03,Spain,Croatia,2-0,1,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
+07/06/2024 20:04:57,Tom,M03,Spain,Croatia,0-0,1,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
+08/06/2024 23:31:40,Ed,M03,Spain,Croatia,1-1,1,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
+09/06/2024 10:35:29,Jonny,M03,Spain,Croatia,2-1,1,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
+11/06/2024 11:43:49,Jay,M03,Spain,Croatia,1-1,1,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
+13/06/2024 13:32:21,Marc,M03,Spain,Croatia,2-0,1,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
+14/06/2024 13:38:34,Corfe,M03,Spain,Croatia,2-1,1,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
+14/06/2024 19:11:16,Luke,M03,Spain,Croatia,1-0,1,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
+27/05/2024 20:29:29,Rando Randal,M03,Spain,Croatia,1-1,1,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
+27/05/2024 20:29:29,Peter Popular,M03,Spain,Croatia,2-1,1,3-0,1,Groups,01. Groups - Matchday 1,15/06/2024 17:00:00
+07/06/2024 19:59:48,Larry,M05,Serbia,England,0-2,1,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
+07/06/2024 20:04:57,Tom,M05,Serbia,England,0-2,2,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
+08/06/2024 23:31:40,Ed,M05,Serbia,England,1-2,2,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
+09/06/2024 10:35:29,Jonny,M05,Serbia,England,0-2,1,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
+11/06/2024 11:43:49,Jay,M05,Serbia,England,0-1,1,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
+13/06/2024 13:32:21,Marc,M05,Serbia,England,1-4,1,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
+14/06/2024 13:38:34,Corfe,M05,Serbia,England,0-2,1,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
+14/06/2024 19:11:16,Luke,M05,Serbia,England,0-1,1,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
+27/05/2024 20:29:29,Rando Randal,M05,Serbia,England,2-4,2,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
+27/05/2024 20:29:29,Peter Popular,M05,Serbia,England,0-3,1,0-1,1,Groups,01. Groups - Matchday 1,16/06/2024 20:00:00
+07/06/2024 19:59:48,Larry,M08,Austria,France,0-2,1,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
+07/06/2024 20:04:57,Tom,M08,Austria,France,1-2,1,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
+08/06/2024 23:31:40,Ed,M08,Austria,France,1-4,1,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
+09/06/2024 10:35:29,Jonny,M08,Austria,France,0-3,1,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
+11/06/2024 11:43:49,Jay,M08,Austria,France,1-3,1,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
+13/06/2024 13:32:21,Marc,M08,Austria,France,0-3,1,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
+14/06/2024 13:38:34,Corfe,M08,Austria,France,1-3,1,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
+14/06/2024 19:11:16,Luke,M08,Austria,France,0-2,1,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
+27/05/2024 20:29:29,Rando Randal,M08,Austria,France,3-2,1,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
+27/05/2024 20:29:29,Peter Popular,M08,Austria,France,0-3,1,0-1,1,Groups,01. Groups - Matchday 1,17/06/2024 20:00:00
+07/06/2024 19:59:48,Larry,M12,Portugal,Czech Republic,2-1,1,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
+07/06/2024 20:04:57,Tom,M12,Portugal,Czech Republic,3-1,1,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
+08/06/2024 23:31:40,Ed,M12,Portugal,Czech Republic,2-0,1,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
+09/06/2024 10:35:29,Jonny,M12,Portugal,Czech Republic,2-1,1,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
+11/06/2024 11:43:49,Jay,M12,Portugal,Czech Republic,2-0,2,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
+13/06/2024 13:32:21,Marc,M12,Portugal,Czech Republic,1-1,1,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
+14/06/2024 13:38:34,Corfe,M12,Portugal,Czech Republic,3-0,1,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
+14/06/2024 19:11:16,Luke,M12,Portugal,Czech Republic,1-0,1,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
+27/05/2024 20:29:29,Rando Randal,M12,Portugal,Czech Republic,5-3,1,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
+27/05/2024 20:29:29,Peter Popular,M12,Portugal,Czech Republic,2-0,1,2-1,1,Groups,01. Groups - Matchday 1,18/06/2024 20:00:00
+15/06/2024 19:43:14,Tom,M13,Scotland,Switzerland,1-3,1,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
+15/06/2024 19:50:30,Jonny,M13,Scotland,Switzerland,1-3,1,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
+17/06/2024 20:31:11,Larry,M13,Scotland,Switzerland,0-3,1,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
+18/06/2024 22:03:06,Jay,M13,Scotland,Switzerland,0-3,2,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
+19/06/2024 05:08:55,Marc,M13,Scotland,Switzerland,2-1,1,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
+19/06/2024 10:33:25,Luke,M13,Scotland,Switzerland,0-1,1,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
+19/06/2024 11:04:58,Ed,M13,Scotland,Switzerland,1-2,1,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
+19/06/2024 12:58:03,Corfe,M13,Scotland,Switzerland,0-1,1,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
+19/06/2024 20:40:28,Peter Popular,M13,Scotland,Switzerland,1-2,1,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
+19/06/2024 20:45:30,Rando Randal,M13,Scotland,Switzerland,4-1,2,1-1,2,Groups,02. Groups - Matchday 2,19/06/2024 20:00:00
+15/06/2024 19:43:14,Tom,M16,Spain,Italy,2-1,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
+15/06/2024 19:50:30,Jonny,M16,Spain,Italy,2-1,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
+17/06/2024 20:31:11,Larry,M16,Spain,Italy,2-0,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
+18/06/2024 22:03:06,Jay,M16,Spain,Italy,2-1,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
+19/06/2024 05:08:55,Marc,M16,Spain,Italy,2-0,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
+19/06/2024 10:33:25,Luke,M16,Spain,Italy,1-1,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
+19/06/2024 11:04:58,Ed,M16,Spain,Italy,1-1,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
+19/06/2024 12:58:03,Corfe,M16,Spain,Italy,1-1,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
+19/06/2024 20:40:28,Peter Popular,M16,Spain,Italy,2-1,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
+19/06/2024 20:45:30,Rando Randal,M16,Spain,Italy,3-5,1,1-0,2,Groups,02. Groups - Matchday 2,20/06/2024 17:00:00
+15/06/2024 19:43:14,Tom,M17,Denmark,England,0-1,2,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
+15/06/2024 19:50:30,Jonny,M17,Denmark,England,1-3,1,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
+17/06/2024 20:31:11,Larry,M17,Denmark,England,0-2,1,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
+18/06/2024 22:03:06,Jay,M17,Denmark,England,0-0,1,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
+19/06/2024 05:08:55,Marc,M17,Denmark,England,1-3,1,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
+19/06/2024 10:33:25,Luke,M17,Denmark,England,0-1,2,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
+19/06/2024 11:04:58,Ed,M17,Denmark,England,1-2,2,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
+19/06/2024 12:58:03,Corfe,M17,Denmark,England,0-2,2,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
+19/06/2024 20:40:28,Peter Popular,M17,Denmark,England,1-2,2,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
+19/06/2024 20:45:30,Rando Randal,M17,Denmark,England,2-5,1,1-1,2,Groups,02. Groups - Matchday 2,20/06/2024 20:00:00
+15/06/2024 19:43:14,Tom,M20,Netherlands,France,1-2,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+15/06/2024 19:50:30,Jonny,M20,Netherlands,France,1-2,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+17/06/2024 20:31:11,Larry,M20,Netherlands,France,2-3,2,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+18/06/2024 22:03:06,Jay,M20,Netherlands,France,2-2,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+19/06/2024 05:08:55,Marc,M20,Netherlands,France,0-2,2,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+19/06/2024 10:33:25,Luke,M20,Netherlands,France,1-1,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+19/06/2024 11:04:58,Ed,M20,Netherlands,France,1-2,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+19/06/2024 12:58:03,Corfe,M20,Netherlands,France,0-1,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+19/06/2024 20:40:28,Peter Popular,M20,Netherlands,France,1-2,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+19/06/2024 20:45:30,Rando Randal,M20,Netherlands,France,3-2,1,0-0,2,Groups,02. Groups - Matchday 2,21/06/2024 20:00:00
+15/06/2024 19:43:14,Tom,M22,Belgium,Romania,3-0,1,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
+15/06/2024 19:50:30,Jonny,M22,Belgium,Romania,2-0,2,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
+17/06/2024 20:31:11,Larry,M22,Belgium,Romania,3-0,1,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
+18/06/2024 22:03:06,Jay,M22,Belgium,Romania,2-1,1,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
+19/06/2024 05:08:55,Marc,M22,Belgium,Romania,2-2,1,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
+19/06/2024 10:33:25,Luke,M22,Belgium,Romania,2-0,1,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
+19/06/2024 11:04:58,Ed,M22,Belgium,Romania,2-1,1,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
+19/06/2024 12:58:03,Corfe,M22,Belgium,Romania,2-1,1,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
+19/06/2024 20:40:28,Peter Popular,M22,Belgium,Romania,2-0,1,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
+19/06/2024 20:45:30,Rando Randal,M22,Belgium,Romania,0-2,1,2-0,2,Groups,02. Groups - Matchday 2,22/06/2024 20:00:00
+21/06/2024 22:20:57,Tom,M26,Scotland,Hungary,1-1,1,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
+22/06/2024 05:54:55,Marc,M26,Scotland,Hungary,1-0,1,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
+22/06/2024 22:06:56,Jonny,M26,Scotland,Hungary,1-1,1,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
+22/06/2024 22:26:43,Ed,M26,Scotland,Hungary,2-2,1,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
+23/06/2024 11:38:56,Jay,M26,Scotland,Hungary,1-1,1,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
+23/06/2024 12:57:08,Larry,M26,Scotland,Hungary,1-1,1,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
+23/06/2024 15:58:50,Corfe,M26,Scotland,Hungary,0-1,1,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
+23/06/2024 19:00:30,Luke,M26,Scotland,Hungary,1-2,1,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
+21/06/2024 22:20:57,Peter Popular,M26,Scotland,Hungary,1-1,1,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
+21/06/2024 22:20:57,Rando Randal,M26,Scotland,Hungary,4-5,1,0-1,3,Groups,03. Groups - Matchday 3,23/06/2024 20:00:00
+21/06/2024 22:20:57,Tom,M28,Croatia,Italy,1-1,1,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
+22/06/2024 05:54:55,Marc,M28,Croatia,Italy,2-2,1,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
+22/06/2024 22:06:56,Jonny,M28,Croatia,Italy,1-1,1,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
+22/06/2024 22:26:43,Ed,M28,Croatia,Italy,1-2,1,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
+23/06/2024 11:38:56,Jay,M28,Croatia,Italy,1-2,1,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
+23/06/2024 12:57:08,Larry,M28,Croatia,Italy,2-1,1,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
+23/06/2024 15:58:50,Corfe,M28,Croatia,Italy,0-2,2,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
+23/06/2024 19:00:30,Luke,M28,Croatia,Italy,0-1,1,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
+21/06/2024 22:20:57,Peter Popular,M28,Croatia,Italy,1-2,1,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
+21/06/2024 22:20:57,Rando Randal,M28,Croatia,Italy,0-4,2,1-1,3,Groups,03. Groups - Matchday 3,24/06/2024 20:00:00
+21/06/2024 22:20:57,Tom,M30,Denmark,Serbia,1-0,2,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
+22/06/2024 05:54:55,Marc,M30,Denmark,Serbia,3-0,1,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
+22/06/2024 22:06:56,Jonny,M30,Denmark,Serbia,2-1,1,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
+22/06/2024 22:26:43,Ed,M30,Denmark,Serbia,3-1,1,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
+23/06/2024 11:38:56,Jay,M30,Denmark,Serbia,2-1,1,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
+23/06/2024 12:57:08,Larry,M30,Denmark,Serbia,1-1,1,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
+23/06/2024 15:58:50,Corfe,M30,Denmark,Serbia,2-0,1,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
+23/06/2024 19:00:30,Luke,M30,Denmark,Serbia,2-1,1,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
+21/06/2024 22:20:57,Peter Popular,M30,Denmark,Serbia,2-1,1,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
+21/06/2024 22:20:57,Rando Randal,M30,Denmark,Serbia,4-5,1,0-0,3,Groups,03. Groups - Matchday 3,25/06/2024 20:00:00
+21/06/2024 22:20:57,Tom,M31,Netherlands,Austria,1-2,1,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
+22/06/2024 05:54:55,Marc,M31,Netherlands,Austria,2-0,2,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
+22/06/2024 22:06:56,Jonny,M31,Netherlands,Austria,2-0,2,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
+22/06/2024 22:26:43,Ed,M31,Netherlands,Austria,2-0,2,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
+23/06/2024 11:38:56,Jay,M31,Netherlands,Austria,2-2,1,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
+23/06/2024 12:57:08,Larry,M31,Netherlands,Austria,2-1,2,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
+23/06/2024 15:58:50,Corfe,M31,Netherlands,Austria,2-1,1,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
+23/06/2024 19:00:30,Luke,M31,Netherlands,Austria,1-0,2,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
+21/06/2024 22:20:57,Peter Popular,M31,Netherlands,Austria,2-0,1,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
+21/06/2024 22:20:57,Rando Randal,M31,Netherlands,Austria,3-0,1,2-3,3,Groups,03. Groups - Matchday 3,25/06/2024 17:00:00
+21/06/2024 22:20:57,Tom,M36,Czech Republic,Turkey,0-1,1,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
+22/06/2024 05:54:55,Marc,M36,Czech Republic,Turkey,1-1,1,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
+22/06/2024 22:06:56,Jonny,M36,Czech Republic,Turkey,1-0,1,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
+22/06/2024 22:26:43,Ed,M36,Czech Republic,Turkey,1-2,1,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
+23/06/2024 11:38:56,Jay,M36,Czech Republic,Turkey,1-2,2,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
+23/06/2024 12:57:08,Larry,M36,Czech Republic,Turkey,2-1,1,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
+23/06/2024 15:58:50,Corfe,M36,Czech Republic,Turkey,1-1,1,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
+23/06/2024 19:00:30,Luke,M36,Czech Republic,Turkey,2-1,1,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
+21/06/2024 22:20:57,Peter Popular,M36,Czech Republic,Turkey,1-2,2,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
+21/06/2024 22:20:57,Rando Randal,M36,Czech Republic,Turkey,5-3,1,1-2,3,Groups,03. Groups - Matchday 3,26/06/2024 20:00:00
+27/06/2024 08:47:23,Marc,M37,Germany,Denmark,2-1,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
+28/06/2024 09:15:29,Tom,M37,Germany,Denmark,2-0,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
+28/06/2024 09:27:41,Jonny,M37,Germany,Denmark,2-0,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
+28/06/2024 11:25:22,Larry,M37,Germany,Denmark,2-1,2,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
+28/06/2024 16:12:11,Ed,M37,Germany,Denmark,2-0,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
+29/06/2024 07:46:10,Luke,M37,Germany,Denmark,1-0,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
+29/06/2024 15:54:09,Corfe,M37,Germany,Denmark,2-0,2,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
+29/06/2024 16:12:34,Jay,M37,Germany,Denmark,2-1,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
+29/06/2024 16:12:34,Peter Popular,M37,Germany,Denmark,2-0,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
+29/06/2024 16:12:34,Rando Randal,M37,Germany,Denmark,3-4,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 20:00:00
+27/06/2024 08:47:23,Marc,M38,Switzerland,Italy,1-1,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
+28/06/2024 09:15:29,Tom,M38,Switzerland,Italy,1-1,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
+28/06/2024 09:27:41,Jonny,M38,Switzerland,Italy,1-1,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
+28/06/2024 11:25:22,Larry,M38,Switzerland,Italy,2-1,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
+28/06/2024 16:12:11,Ed,M38,Switzerland,Italy,0-1,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
+29/06/2024 07:46:10,Luke,M38,Switzerland,Italy,0-1,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
+29/06/2024 15:54:09,Corfe,M38,Switzerland,Italy,0-1,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
+29/06/2024 16:12:34,Jay,M38,Switzerland,Italy,2-1,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
+29/06/2024 16:12:34,Peter Popular,M38,Switzerland,Italy,1-2,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
+29/06/2024 16:12:34,Rando Randal,M38,Switzerland,Italy,0-4,1,2-0,4,KO,04. KO - Round of 16,29/06/2024 17:00:00
+27/06/2024 08:47:23,Marc,M39,Spain,Georgia,3-0,1,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
+28/06/2024 09:15:29,Tom,M39,Spain,Georgia,2-0,1,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
+28/06/2024 09:27:41,Jonny,M39,Spain,Georgia,3-0,2,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
+28/06/2024 11:25:22,Larry,M39,Spain,Georgia,3-0,1,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
+28/06/2024 16:12:11,Ed,M39,Spain,Georgia,3-1,2,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
+29/06/2024 07:46:10,Luke,M39,Spain,Georgia,2-0,2,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
+29/06/2024 15:54:09,Corfe,M39,Spain,Georgia,2-0,1,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
+29/06/2024 16:12:34,Jay,M39,Spain,Georgia,3-1,2,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
+29/06/2024 16:12:34,Peter Popular,M39,Spain,Georgia,3-0,1,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
+29/06/2024 16:12:34,Rando Randal,M39,Spain,Georgia,5-2,1,4-1,4,KO,04. KO - Round of 16,30/06/2024 20:00:00
+27/06/2024 08:47:23,Marc,M40,England,Slovakia,1-0,2,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
+28/06/2024 09:15:29,Tom,M40,England,Slovakia,1-0,2,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
+28/06/2024 09:27:41,Jonny,M40,England,Slovakia,2-0,1,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
+28/06/2024 11:25:22,Larry,M40,England,Slovakia,2-0,1,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
+28/06/2024 16:12:11,Ed,M40,England,Slovakia,1-0,1,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
+29/06/2024 07:46:10,Luke,M40,England,Slovakia,1-0,1,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
+29/06/2024 15:54:09,Corfe,M40,England,Slovakia,2-0,1,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
+29/06/2024 16:12:34,Jay,M40,England,Slovakia,1-0,1,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
+29/06/2024 16:12:34,Peter Popular,M40,England,Slovakia,1-0,1,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
+29/06/2024 16:12:34,Rando Randal,M40,England,Slovakia,3-2,2,1-1,4,KO,04. KO - Round of 16,30/06/2024 17:00:00
+27/06/2024 08:47:23,Marc,M41,Portugal,Slovenia,2-1,1,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
+28/06/2024 09:15:29,Tom,M41,Portugal,Slovenia,2-1,1,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
+28/06/2024 09:27:41,Jonny,M41,Portugal,Slovenia,2-0,1,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
+28/06/2024 11:25:22,Larry,M41,Portugal,Slovenia,2-0,1,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
+28/06/2024 16:12:11,Ed,M41,Portugal,Slovenia,2-1,1,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
+29/06/2024 07:46:10,Luke,M41,Portugal,Slovenia,2-0,1,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
+29/06/2024 15:54:09,Corfe,M41,Portugal,Slovenia,2-0,1,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
+29/06/2024 16:12:34,Jay,M41,Portugal,Slovenia,3-0,1,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
+29/06/2024 16:12:34,Peter Popular,M41,Portugal,Slovenia,2-0,2,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
+29/06/2024 16:12:34,Rando Randal,M41,Portugal,Slovenia,3-5,1,0-0,4,KO,04. KO - Round of 16,01/07/2024 20:00:00
+27/06/2024 08:47:23,Marc,M42,France,Belgium,2-1,1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
+28/06/2024 09:15:29,Tom,M42,France,Belgium,1-1,1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
+28/06/2024 09:27:41,Jonny,M42,France,Belgium,1-1,1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
+28/06/2024 11:25:22,Larry,M42,France,Belgium,3-0,1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
+28/06/2024 16:12:11,Ed,M42,France,Belgium,1-1,1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
+29/06/2024 07:46:10,Luke,M42,France,Belgium,1-0,1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
+29/06/2024 15:54:09,Corfe,M42,France,Belgium,1-0,1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
+29/06/2024 16:12:34,Jay,M42,France,Belgium,2-1,1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
+29/06/2024 16:12:34,Peter Popular,M42,France,Belgium,2-1,1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
+29/06/2024 16:12:34,Rando Randal,M42,France,Belgium,2-1,1,1-0,4,KO,04. KO - Round of 16,01/07/2024 17:00:00
+27/06/2024 08:47:23,Marc,M43,Romania,Netherlands,1-1,1,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
+28/06/2024 09:15:29,Tom,M43,Romania,Netherlands,2-1,1,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
+28/06/2024 09:27:41,Jonny,M43,Romania,Netherlands,0-2,1,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
+28/06/2024 11:25:22,Larry,M43,Romania,Netherlands,2-0,1,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
+28/06/2024 16:12:11,Ed,M43,Romania,Netherlands,2-2,1,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
+29/06/2024 07:46:10,Luke,M43,Romania,Netherlands,0-1,1,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
+29/06/2024 15:54:09,Corfe,M43,Romania,Netherlands,1-2,1,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
+29/06/2024 16:12:34,Jay,M43,Romania,Netherlands,1-1,1,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
+29/06/2024 16:12:34,Peter Popular,M43,Romania,Netherlands,1-2,1,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
+29/06/2024 16:12:34,Rando Randal,M43,Romania,Netherlands,3-3,1,0-3,4,KO,04. KO - Round of 16,02/07/2024 17:00:00
+27/06/2024 08:47:23,Marc,M44,Austria,Turkey,3-0,1,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
+28/06/2024 09:15:29,Tom,M44,Austria,Turkey,3-2,1,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
+28/06/2024 09:27:41,Jonny,M44,Austria,Turkey,2-2,1,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
+28/06/2024 11:25:22,Larry,M44,Austria,Turkey,3-1,1,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
+28/06/2024 16:12:11,Ed,M44,Austria,Turkey,2-0,1,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
+29/06/2024 07:46:10,Luke,M44,Austria,Turkey,1-0,1,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
+29/06/2024 15:54:09,Corfe,M44,Austria,Turkey,1-1,1,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
+29/06/2024 16:12:34,Jay,M44,Austria,Turkey,2-0,1,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
+29/06/2024 16:12:34,Peter Popular,M44,Austria,Turkey,2-1,1,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
+29/06/2024 16:12:34,Rando Randal,M44,Austria,Turkey,4-2,1,1-2,4,KO,04. KO - Round of 16,02/07/2024 20:00:00
+03/07/2024 20:42:11,Ed,M45,Spain,Germany,2-2,1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+03/07/2024 22:54:13,Tom,M45,Spain,Germany,1-1,1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+04/07/2024 05:45:02,Marc,M45,Spain,Germany,1-2,1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+04/07/2024 13:08:07,Jonny,M45,Spain,Germany,1-1,1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+04/07/2024 14:36:00,Larry,M45,Spain,Germany,2-0,1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+05/07/2024 12:30:18,Corfe,M45,Spain,Germany,2-1,1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+05/07/2024 12:58:29,Jay,M45,Spain,Germany,3-1,1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+05/07/2024 18:45:09,Luke,M45,Spain,Germany,1-1,1,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+05/07/2024 12:58:29,Rando Randal,M45,Spain,Germany,2-1,2,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+05/07/2024 12:58:29,Peter Popular,M45,Spain,Germany,2-1,2,1-1,5,KO,05. KO - Quarter Final,05/07/2024 17:00:00
+03/07/2024 20:42:11,Ed,M46,Portugal,France,0-1,1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+03/07/2024 22:54:13,Tom,M46,Portugal,France,0-1,2,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+04/07/2024 05:45:02,Marc,M46,Portugal,France,1-0,1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+04/07/2024 13:08:07,Jonny,M46,Portugal,France,0-2,1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+04/07/2024 14:36:00,Larry,M46,Portugal,France,1-2,1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+05/07/2024 12:30:18,Corfe,M46,Portugal,France,0-1,1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+05/07/2024 12:58:29,Jay,M46,Portugal,France,1-1,2,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+05/07/2024 18:45:09,Luke,M46,Portugal,France,0-1,1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+05/07/2024 12:58:29,Rando Randal,M46,Portugal,France,0-1,1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+05/07/2024 12:58:29,Peter Popular,M46,Portugal,France,1-2,1,0-0,5,KO,05. KO - Quarter Final,05/07/2024 20:00:00
+03/07/2024 20:42:11,Ed,M47,Netherlands,Turkey,2-1,2,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+03/07/2024 22:54:13,Tom,M47,Netherlands,Turkey,1-1,1,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+04/07/2024 05:45:02,Marc,M47,Netherlands,Turkey,2-1,2,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+04/07/2024 13:08:07,Jonny,M47,Netherlands,Turkey,2-0,2,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+04/07/2024 14:36:00,Larry,M47,Netherlands,Turkey,2-0,1,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+05/07/2024 12:30:18,Corfe,M47,Netherlands,Turkey,2-0,2,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+05/07/2024 12:58:29,Jay,M47,Netherlands,Turkey,2-0,1,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+05/07/2024 18:45:09,Luke,M47,Netherlands,Turkey,2-0,2,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+05/07/2024 12:58:29,Rando Randal,M47,Netherlands,Turkey,0-5,1,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+05/07/2024 12:58:29,Peter Popular,M47,Netherlands,Turkey,2-1,1,2-1,5,KO,05. KO - Quarter Final,06/07/2024 20:00:00
+03/07/2024 20:42:11,Ed,M48,England,Switzerland,1-0,1,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+03/07/2024 22:54:13,Tom,M48,England,Switzerland,1-2,1,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+04/07/2024 05:45:02,Marc,M48,England,Switzerland,1-1,1,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+04/07/2024 13:08:07,Jonny,M48,England,Switzerland,1-1,1,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+04/07/2024 14:36:00,Larry,M48,England,Switzerland,2-0,2,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+05/07/2024 12:30:18,Corfe,M48,England,Switzerland,1-0,1,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+05/07/2024 12:58:29,Jay,M48,England,Switzerland,1-0,1,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+05/07/2024 18:45:09,Luke,M48,England,Switzerland,1-0,1,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+05/07/2024 12:58:29,Rando Randal,M48,England,Switzerland,3-2,1,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+05/07/2024 12:58:29,Peter Popular,M48,England,Switzerland,2-1,1,1-1,5,KO,05. KO - Quarter Final,06/07/2024 17:00:00
+07/07/2024 09:48,Jay,M49,Spain,France,2-0,2,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
+07/07/2024 09:56,Larry,M49,Spain,France,2-1,1,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
+07/07/2024 10:03,Marc,M49,Spain,France,2-0,1,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
+07/07/2024 10:29,Ed,M49,Spain,France,1-1,2,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
+08/07/2024 14:46,Corfe,M49,Spain,France,1-0,2,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
+09/07/2024 15:36,Jonny,M49,Spain,France,1-0,2,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
+09/07/2024 16:41,Tom,M49,Spain,France,1-2,1,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
+09/07/2024 19:23,Luke,M49,Spain,France,1-1,2,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
+09/07/2024 16:41,Peter Popular,M49,Spain,France,2-1,2,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
+09/07/2024 16:41,Rando Randal,M49,Spain,France,5-0,2,2-1,6,KO,06. KO - Semi Final,09/07/2024 20:00:00
+07/07/2024 09:48,Jay,M50,Netherlands,England,1-1,1,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
+07/07/2024 09:56,Larry,M50,Netherlands,England,1-2,2,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
+07/07/2024 10:03,Marc,M50,Netherlands,England,2-2,2,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
+07/07/2024 10:29,Ed,M50,Netherlands,England,2-1,1,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
+08/07/2024 14:46,Corfe,M50,Netherlands,England,0-1,1,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
+09/07/2024 15:36,Jonny,M50,Netherlands,England,1-1,1,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
+09/07/2024 16:41,Tom,M50,Netherlands,England,1-1,2,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
+09/07/2024 19:23,Luke,M50,Netherlands,England,1-1,1,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
+09/07/2024 16:41,Peter Popular,M50,Netherlands,England,1-1,1,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00
+09/07/2024 16:41,Rando Randal,M50,Netherlands,England,3-4,1,1-2,6,KO,06. KO - Semi Final,10/07/2024 20:00:00

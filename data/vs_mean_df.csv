@@ -1,61 +1,61 @@
 ,name,matchday,stage_detail,base_points,total_points,cumulative_total_points,cumulative_avg_total_points,difference
-0,Corfe,1.0,01. Groups - Matchday 1,5,6,6,6.2,-0.20000000000000018
-1,Corfe,2.0,02. Groups - Matchday 2,1,1,7,8.8,-1.8000000000000007
-2,Corfe,3.0,03. Groups - Matchday 3,3,3,10,11.8,-1.8000000000000007
-3,Corfe,4.0,04. KO - Round of 16,8,11,21,17.2,3.8000000000000007
-4,Corfe,5.0,05. KO - Quarter Final,1,2,23,21.3,1.6999999999999993
-5,Corfe,6.0,06. KO - Semi Final,1,2,25,23.1,1.8999999999999986
-6,Ed,1.0,01. Groups - Matchday 1,4,5,5,6.2,-1.2000000000000002
-7,Ed,2.0,02. Groups - Matchday 2,1,1,6,8.8,-2.8000000000000007
-8,Ed,3.0,03. Groups - Matchday 3,3,3,9,11.8,-2.8000000000000007
-9,Ed,4.0,04. KO - Round of 16,4,5,14,17.2,-3.1999999999999993
-10,Ed,5.0,05. KO - Quarter Final,4,7,21,21.3,-0.3000000000000007
-11,Ed,6.0,06. KO - Semi Final,0,0,21,23.1,-2.1000000000000014
-12,Jay,1.0,01. Groups - Matchday 1,6,7,7,6.2,0.7999999999999998
-13,Jay,2.0,02. Groups - Matchday 2,4,4,11,8.8,2.1999999999999993
-14,Jay,3.0,03. Groups - Matchday 3,3,6,17,11.8,5.199999999999999
-15,Jay,4.0,04. KO - Round of 16,4,5,22,17.2,4.800000000000001
-16,Jay,5.0,05. KO - Quarter Final,2,3,25,21.3,3.6999999999999993
-17,Jay,6.0,06. KO - Semi Final,1,2,27,23.1,3.8999999999999986
-18,Jonny,1.0,01. Groups - Matchday 1,7,8,8,6.2,1.7999999999999998
-19,Jonny,2.0,02. Groups - Matchday 2,4,7,15,8.8,6.199999999999999
-20,Jonny,3.0,03. Groups - Matchday 3,3,3,18,11.8,6.199999999999999
-21,Jonny,4.0,04. KO - Round of 16,5,6,24,17.2,6.800000000000001
-22,Jonny,5.0,05. KO - Quarter Final,7,8,32,21.3,10.7
-23,Jonny,6.0,06. KO - Semi Final,1,2,34,23.1,10.899999999999999
-24,Larry,1.0,01. Groups - Matchday 1,7,8,8,6.2,1.7999999999999998
-25,Larry,2.0,02. Groups - Matchday 2,2,2,10,8.8,1.1999999999999993
-26,Larry,3.0,03. Groups - Matchday 3,1,1,11,11.8,-0.8000000000000007
-27,Larry,4.0,04. KO - Round of 16,4,5,16,17.2,-1.1999999999999993
-28,Larry,5.0,05. KO - Quarter Final,1,1,17,21.3,-4.300000000000001
-29,Larry,6.0,06. KO - Semi Final,3,3,20,23.1,-3.1000000000000014
-30,Luke,1.0,01. Groups - Matchday 1,7,8,8,6.2,1.7999999999999998
-31,Luke,2.0,02. Groups - Matchday 2,4,4,12,8.8,3.1999999999999993
-32,Luke,3.0,03. Groups - Matchday 3,1,1,13,11.8,1.1999999999999993
-33,Luke,4.0,04. KO - Round of 16,6,7,20,17.2,2.8000000000000007
-34,Luke,5.0,05. KO - Quarter Final,4,5,25,21.3,3.6999999999999993
-35,Luke,6.0,06. KO - Semi Final,0,0,25,23.1,1.8999999999999986
-36,Marc,1.0,01. Groups - Matchday 1,4,5,5,6.2,-1.2000000000000002
-37,Marc,2.0,02. Groups - Matchday 2,1,1,6,8.8,-2.8000000000000007
-38,Marc,3.0,03. Groups - Matchday 3,1,1,7,11.8,-4.800000000000001
-39,Marc,4.0,04. KO - Round of 16,3,3,10,17.2,-7.199999999999999
-40,Marc,5.0,05. KO - Quarter Final,6,9,19,21.3,-2.3000000000000007
-41,Marc,6.0,06. KO - Semi Final,1,1,20,23.1,-3.1000000000000014
-42,Peter Popular,1.0,01. Groups - Matchday 1,5,6,6,6.2,-0.20000000000000018
-43,Peter Popular,2.0,02. Groups - Matchday 2,4,4,10,8.8,1.1999999999999993
-44,Peter Popular,3.0,03. Groups - Matchday 3,3,6,16,11.8,4.199999999999999
-45,Peter Popular,4.0,04. KO - Round of 16,6,6,22,17.2,4.800000000000001
-46,Peter Popular,5.0,05. KO - Quarter Final,3,3,25,21.3,3.6999999999999993
-47,Peter Popular,6.0,06. KO - Semi Final,3,6,31,23.1,7.899999999999999
-48,Rando Randal,1.0,01. Groups - Matchday 1,3,4,4,6.2,-2.2
-49,Rando Randal,2.0,02. Groups - Matchday 2,0,0,4,8.8,-4.800000000000001
-50,Rando Randal,3.0,03. Groups - Matchday 3,1,1,5,11.8,-6.800000000000001
-51,Rando Randal,4.0,04. KO - Round of 16,2,2,7,17.2,-10.2
-52,Rando Randal,5.0,05. KO - Quarter Final,0,0,7,21.3,-14.3
-53,Rando Randal,6.0,06. KO - Semi Final,1,2,9,23.1,-14.100000000000001
-54,Tom,1.0,01. Groups - Matchday 1,4,5,5,6.2,-1.2000000000000002
-55,Tom,2.0,02. Groups - Matchday 2,2,2,7,8.8,-1.8000000000000007
-56,Tom,3.0,03. Groups - Matchday 3,5,5,12,11.8,0.1999999999999993
-57,Tom,4.0,04. KO - Round of 16,4,4,16,17.2,-1.1999999999999993
-58,Tom,5.0,05. KO - Quarter Final,3,3,19,21.3,-2.3000000000000007
-59,Tom,6.0,06. KO - Semi Final,0,0,19,23.1,-4.100000000000001
+0,Corfe,1,01. Groups - Matchday 1,5,6,6,6.2,-0.20000000000000018
+1,Corfe,2,02. Groups - Matchday 2,1,1,7,8.8,-1.8000000000000007
+2,Corfe,3,03. Groups - Matchday 3,3,3,10,11.8,-1.8000000000000007
+3,Corfe,4,04. KO - Round of 16,8,11,21,17.2,3.8000000000000007
+4,Corfe,5,05. KO - Quarter Final,1,2,23,21.3,1.6999999999999993
+5,Corfe,6,06. KO - Semi Final,2,3,26,23.9,2.1000000000000014
+6,Ed,1,01. Groups - Matchday 1,4,5,5,6.2,-1.2000000000000002
+7,Ed,2,02. Groups - Matchday 2,1,1,6,8.8,-2.8000000000000007
+8,Ed,3,03. Groups - Matchday 3,3,3,9,11.8,-2.8000000000000007
+9,Ed,4,04. KO - Round of 16,4,5,14,17.2,-3.1999999999999993
+10,Ed,5,05. KO - Quarter Final,4,7,21,21.3,-0.3000000000000007
+11,Ed,6,06. KO - Semi Final,0,0,21,23.9,-2.8999999999999986
+12,Jay,1,01. Groups - Matchday 1,6,7,7,6.2,0.7999999999999998
+13,Jay,2,02. Groups - Matchday 2,4,4,11,8.8,2.1999999999999993
+14,Jay,3,03. Groups - Matchday 3,3,6,17,11.8,5.199999999999999
+15,Jay,4,04. KO - Round of 16,4,5,22,17.2,4.800000000000001
+16,Jay,5,05. KO - Quarter Final,2,3,25,21.3,3.6999999999999993
+17,Jay,6,06. KO - Semi Final,1,2,27,23.9,3.1000000000000014
+18,Jonny,1,01. Groups - Matchday 1,7,8,8,6.2,1.7999999999999998
+19,Jonny,2,02. Groups - Matchday 2,4,7,15,8.8,6.199999999999999
+20,Jonny,3,03. Groups - Matchday 3,3,3,18,11.8,6.199999999999999
+21,Jonny,4,04. KO - Round of 16,5,6,24,17.2,6.800000000000001
+22,Jonny,5,05. KO - Quarter Final,7,8,32,21.3,10.7
+23,Jonny,6,06. KO - Semi Final,1,2,34,23.9,10.100000000000001
+24,Larry,1,01. Groups - Matchday 1,7,8,8,6.2,1.7999999999999998
+25,Larry,2,02. Groups - Matchday 2,2,2,10,8.8,1.1999999999999993
+26,Larry,3,03. Groups - Matchday 3,1,1,11,11.8,-0.8000000000000007
+27,Larry,4,04. KO - Round of 16,4,5,16,17.2,-1.1999999999999993
+28,Larry,5,05. KO - Quarter Final,1,1,17,21.3,-4.300000000000001
+29,Larry,6,06. KO - Semi Final,6,9,26,23.9,2.1000000000000014
+30,Luke,1,01. Groups - Matchday 1,7,8,8,6.2,1.7999999999999998
+31,Luke,2,02. Groups - Matchday 2,4,4,12,8.8,3.1999999999999993
+32,Luke,3,03. Groups - Matchday 3,1,1,13,11.8,1.1999999999999993
+33,Luke,4,04. KO - Round of 16,6,7,20,17.2,2.8000000000000007
+34,Luke,5,05. KO - Quarter Final,4,5,25,21.3,3.6999999999999993
+35,Luke,6,06. KO - Semi Final,0,0,25,23.9,1.1000000000000014
+36,Marc,1,01. Groups - Matchday 1,4,5,5,6.2,-1.2000000000000002
+37,Marc,2,02. Groups - Matchday 2,1,1,6,8.8,-2.8000000000000007
+38,Marc,3,03. Groups - Matchday 3,1,1,7,11.8,-4.800000000000001
+39,Marc,4,04. KO - Round of 16,3,3,10,17.2,-7.199999999999999
+40,Marc,5,05. KO - Quarter Final,6,9,19,21.3,-2.3000000000000007
+41,Marc,6,06. KO - Semi Final,1,1,20,23.9,-3.8999999999999986
+42,Peter Popular,1,01. Groups - Matchday 1,5,6,6,6.2,-0.20000000000000018
+43,Peter Popular,2,02. Groups - Matchday 2,4,4,10,8.8,1.1999999999999993
+44,Peter Popular,3,03. Groups - Matchday 3,3,6,16,11.8,4.199999999999999
+45,Peter Popular,4,04. KO - Round of 16,6,6,22,17.2,4.800000000000001
+46,Peter Popular,5,05. KO - Quarter Final,3,3,25,21.3,3.6999999999999993
+47,Peter Popular,6,06. KO - Semi Final,3,6,31,23.9,7.100000000000001
+48,Rando Randal,1,01. Groups - Matchday 1,3,4,4,6.2,-2.2
+49,Rando Randal,2,02. Groups - Matchday 2,0,0,4,8.8,-4.800000000000001
+50,Rando Randal,3,03. Groups - Matchday 3,1,1,5,11.8,-6.800000000000001
+51,Rando Randal,4,04. KO - Round of 16,2,2,7,17.2,-10.2
+52,Rando Randal,5,05. KO - Quarter Final,0,0,7,21.3,-14.3
+53,Rando Randal,6,06. KO - Semi Final,2,3,10,23.9,-13.899999999999999
+54,Tom,1,01. Groups - Matchday 1,4,5,5,6.2,-1.2000000000000002
+55,Tom,2,02. Groups - Matchday 2,2,2,7,8.8,-1.8000000000000007
+56,Tom,3,03. Groups - Matchday 3,5,5,12,11.8,0.1999999999999993
+57,Tom,4,04. KO - Round of 16,4,4,16,17.2,-1.1999999999999993
+58,Tom,5,05. KO - Quarter Final,3,3,19,21.3,-2.3000000000000007
+59,Tom,6,06. KO - Semi Final,0,0,19,23.9,-4.899999999999999
